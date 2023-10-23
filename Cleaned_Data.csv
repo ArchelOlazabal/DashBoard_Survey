@@ -1,0 +1,613 @@
+Date Taken (America/New_York),Time Taken (America/New_York),Time Spent,Q1 - Which Title Best Fits your Current Role?,Q2 - Did you switch careers into Data?,Q3 - Current Yearly Salary (in USD),Q4 - What Industry do you work in?,Q5 - Favorite Programming Language,Q6 - How Happy are you in your Current Position with the following? (Salary),Q6 - How Happy are you in your Current Position with the following? (Work/Life Balance),Q6 - How Happy are you in your Current Position with the following? (Coworkers),Q6 - How Happy are you in your Current Position with the following? (Management),Q6 - How Happy are you in your Current Position with the following? (Upward Mobility),Q6 - How Happy are you in your Current Position with the following? (Learning New Things),Q7 - How difficult was it for you to break into Data?,"Q8 - If you were to look for a new job today, what would be the most important thing to you?",Q9 - Male/Female?,Q10 - Current Age,Q11 - Which Country do you live in?,Q12 - Highest Level of Education,Q13 - Ethnicity
+6/10/2022,8:38,0:00:44,data analyst,yes,115.5,healthcare,python,9.0,9.0,7.0,5.0,5.0,7.0,very difficult,remote work,male,26,United states,No Reponse,white or caucasian
+6/10/2022,8:40,0:01:30,data analyst,no,53.0,finance,r,1.0,2.0,5.0,2.0,1.0,3.0,very difficult,remote work,male,36,Canada,No Reponse,asian or asian american
+6/10/2022,8:42,0:02:18,data engineer,no,20.0,clean energy,python,0.0,8.0,7.0,5.0,7.0,7.0,easy,good work/life balance,male,23,Nigeria,No Reponse,black or african american
+6/10/2022,8:43,0:02:10,analytics consultant,yes,187.5,finance,r,10.0,6.0,7.0,10.0,7.0,10.0,very easy,remote work,female,35,Canada,No Reponse,white or caucasian
+6/10/2022,8:44,0:01:51,data analyst,yes,53.0,healthcare,r,1.0,4.0,4.0,4.0,0.0,1.0,difficult,better salary,male,44,United states,No Reponse,black or african american
+6/10/2022,8:44,0:02:34,data analyst,yes,20.0,coworking space ,python,2.0,3.0,3.0,3.0,3.0,2.0,difficult,good work/life balance,male,33,Republic democratic of congo,No Reponse,black or african american
+6/10/2022,8:44,0:01:15,data scientist,yes,20.0,finance,python,0.0,6.0,6.0,6.0,6.0,5.0,difficult,better salary,male,24,,No Reponse,black or african american
+6/10/2022,8:45,0:01:25,data engineer,yes,137.5,retail,sql,10.0,5.0,5.0,5.0,5.0,9.0,neither easy nor difficult,remote work,male,35,United states,No Reponse,asian or asian american
+6/10/2022,8:45,0:02:10,data analyst,yes,95.5,healthcare,r,4.0,4.0,4.0,4.0,5.0,5.0,neither easy nor difficult,better salary,male,35,United states,No Reponse,asian or asian american
+6/10/2022,8:45,0:01:27,data analyst,yes,53.0,telecommunication,python,2.0,0.0,3.0,3.0,0.0,4.0,very difficult,better salary,male,28,United states,No Reponse,hispanic or latino
+6/10/2022,8:45,0:01:29,data analyst,yes,75.5,logistics,python,10.0,10.0,8.0,8.0,8.0,10.0,neither easy nor difficult,remote work,male,37,Canada,No Reponse,white or caucasian
+6/10/2022,8:45,0:02:31,data analyst,yes,20.0,igaming,python,3.0,8.0,10.0,10.0,7.0,8.0,neither easy nor difficult,better salary,male,32,Serbia,No Reponse,white or caucasian
+6/10/2022,8:46,0:03:20,data analyst,yes,20.0,tech,r,1.0,10.0,9.0,9.0,5.0,10.0,neither easy nor difficult,better salary,male,34,Argentina,No Reponse,latino with italian roots
+6/10/2022,8:46,0:00:55,data scientist,yes,20.0,education,python,3.0,10.0,10.0,6.0,7.0,8.0,easy,good work/life balance,male,30,United kingdom,No Reponse,white or caucasian
+6/10/2022,8:47,0:01:24,data analyst,no,53.0,construction,r,4.0,5.0,5.0,5.0,4.0,5.0,neither easy nor difficult,good culture,male,31,United states,No Reponse,white or caucasian
+6/10/2022,8:47,0:00:47,data analyst,yes,53.0,finance,python,4.0,10.0,7.0,7.0,7.0,5.0,difficult,good culture,male,29,United states,No Reponse,white or caucasian
+6/10/2022,8:48,0:01:06,data analyst,yes,20.0,tech,python,1.0,2.0,4.0,2.0,2.0,2.0,neither easy nor difficult,better salary,male,22,Niger,No Reponse,black or african american
+6/10/2022,8:48,0:01:04,student/looking/none,yes,20.0,retail,python,1.0,3.0,2.0,2.0,4.0,1.0,difficult,better salary,male,23,United states,No Reponse,black or african american
+6/10/2022,8:49,0:01:05,student/looking/none,no,53.0,tech,r,7.0,8.0,8.0,6.0,8.0,3.0,very difficult,better salary,female,26,Canada,No Reponse,asian or asian american
+6/10/2022,8:49,0:01:21,data analyst,no,20.0,aviation,python,1.0,1.0,1.0,1.0,2.0,0.0,very difficult,better salary,male,28,Nigeria,No Reponse,black or african american
+6/10/2022,8:49,0:01:23,data analyst,yes,53.0,finance,python,5.0,5.0,5.0,5.0,5.0,5.0,easy,remote work,male,29,Kenya,No Reponse,black or african american
+6/10/2022,8:50,0:01:35,data analyst,yes,115.5,tech,sql,10.0,5.0,10.0,6.0,10.0,10.0,neither easy nor difficult,remote work,female,31,United states,No Reponse,white or caucasian
+6/10/2022,8:51,0:01:25,data analyst,yes,20.0,healthcare,python,5.0,6.0,8.0,8.0,7.0,1.0,neither easy nor difficult,remote work,male,28,Azerbaijan,No Reponse,white or caucasian
+6/10/2022,8:51,0:01:47,data analyst,no,20.0,finance,python,4.0,4.0,4.0,4.0,4.0,4.0,neither easy nor difficult,better salary,male,32,Argentina,No Reponse,hispanic or latino
+6/10/2022,8:51,0:02:14,data analyst,no,20.0,tech,python,7.0,8.0,8.0,8.0,3.0,8.0,easy,better salary,male,24,Sudan,No Reponse,black or african american
+6/10/2022,8:51,0:02:21,data analyst,no,20.0,tech,python,4.0,6.0,6.0,6.0,7.0,7.0,easy,good work/life balance,male,31,India,No Reponse,asian or asian american
+6/10/2022,8:52,0:02:07,data analyst,no,75.5,insurance,sql,7.0,10.0,5.0,5.0,5.0,2.0,difficult,responsibilities,male,23,United states,No Reponse,white or caucasian
+6/10/2022,8:52,0:01:20,data analyst,yes,115.5,energy,python,1.0,6.0,9.0,1.0,0.0,2.0,difficult,remote work,female,33,United states,No Reponse,asian or asian american
+6/10/2022,8:52,0:01:34,data analyst,no,95.5,healthcare,qlik sense script,6.0,7.0,7.0,7.0,7.0,4.0,very easy,better salary,male,43,United states,No Reponse,white or caucasian
+6/10/2022,8:52,0:01:34,student/looking/none,yes,20.0,oil and gas,r,0.0,0.0,5.0,0.0,0.0,0.0,very difficult,remote work,female,23,Nigeria,No Reponse,african
+6/10/2022,8:52,0:01:47,student/looking/none,yes,53.0,finance,python,10.0,7.0,10.0,10.0,5.0,3.0,very difficult,good work/life balance,male,31,United states,No Reponse,black or african american
+6/10/2022,8:53,0:01:38,data analyst,yes,75.5,finance,python,5.0,6.0,7.0,5.0,4.0,4.0,neither easy nor difficult,development,male,31,United kingdom,No Reponse,white or caucasian
+6/10/2022,8:53,0:03:30,data analyst,yes,20.0,other (please specify),python,8.0,7.0,8.0,7.0,7.0,7.0,difficult,good work/life balance,male,25,India,No Reponse,asian or asian american
+6/10/2022,8:54,0:01:37,data engineer,no,137.5,tech,sql,8.0,10.0,10.0,9.0,9.0,9.0,easy,better salary,male,43,United states,No Reponse,white or caucasian
+6/10/2022,8:54,0:02:08,data analyst,no,53.0,finance,python,2.0,3.0,5.0,5.0,5.0,5.0,difficult,better salary,female,26,Canada,No Reponse,south asian
+6/10/2022,8:54,0:03:54,fp&a analyst,no,53.0,automotive,python,5.0,10.0,8.0,8.0,8.0,7.0,neither easy nor difficult,remote work,male,32,Japan,No Reponse,white or caucasian
+6/10/2022,8:54,0:02:28,bi developer,no,20.0,tech,python,2.0,9.0,7.0,7.0,5.0,6.0,difficult,better salary,male,31,Greece,No Reponse,white or caucasian
+6/10/2022,8:55,0:01:33,data analyst,yes,95.5,healthcare,sql,3.0,5.0,6.0,4.0,4.0,5.0,neither easy nor difficult,better salary,male,29,United states,No Reponse,white or caucasian
+6/10/2022,8:55,0:00:56,data analyst,yes,20.0,automotive ,python,3.0,1.0,3.0,2.0,3.0,1.0,neither easy nor difficult,good culture,male,24,Peru,No Reponse,hispanic or latino
+6/10/2022,8:55,0:02:38,student/looking/none,yes,53.0,construction,python,2.0,0.0,2.0,2.0,0.0,0.0,very difficult,remote work,male,34,United states,No Reponse,white or caucasian
+6/10/2022,8:57,0:01:52,data analyst,yes,53.0,utili,power bi,5.0,6.0,6.0,5.0,4.0,6.0,very difficult,better salary,male,42,Australiaalia,No Reponse,indian
+6/10/2022,8:57,0:02:03,student/looking/none,yes,20.0,not working yet,javascript,0.0,0.0,0.0,0.0,0.0,0.0,difficult,remote work,female,40,United states,No Reponse,asian or asian american
+6/10/2022,8:57,0:02:32,student/looking/none,no,53.0,telecommunication,python,3.0,1.0,3.0,4.0,0.0,3.0,easy,good work/life balance,male,43,Spain,No Reponse,white or caucasian
+6/10/2022,8:58,0:02:39,student/looking/none,yes,20.0,construction,python,0.0,0.0,0.0,0.0,0.0,0.0,very difficult,better salary,male,23,Kenya,No Reponse,kenyan african 
+6/10/2022,8:59,0:01:11,student/looking/none,yes,20.0,education,python,5.0,5.0,3.0,5.0,2.0,6.0,difficult,better salary,male,23,Japan,No Reponse,asian or asian american
+6/10/2022,8:59,0:03:55,data analyst,yes,95.5,manufa,python,8.0,6.0,2.0,3.0,6.0,7.0,neither easy nor difficult,"strong organizational data strategy, high-performing team",male,28,United states,No Reponse,white or caucasian
+6/10/2022,9:00,0:01:25,data analyst,no,75.5,finance,sql,5.0,7.0,1.0,1.0,0.0,8.0,neither easy nor difficult,better salary,male,32,United states,No Reponse,white or caucasian
+6/10/2022,9:02,0:02:47,data analyst,yes,75.5,manufacturing (chemicals),r,7.0,8.0,10.0,8.0,9.0,9.0,difficult,remote work,female,41,United states,No Reponse,white or caucasian
+6/10/2022,9:02,0:00:56,data analyst,yes,53.0,finance,python,5.0,6.0,6.0,6.0,6.0,6.0,neither easy nor difficult,remote work,male,33,United kingdom,high school,white or caucasian
+6/10/2022,9:02,0:01:57,"manager, business intelligence develop",yes,187.5,tech,python,10.0,8.0,9.0,8.0,8.0,10.0,easy,good work/life balance,male,38,United states,No Reponse,hispanic or latino
+6/10/2022,9:02,0:02:32,data analyst,no,20.0,tech,sql,8.0,8.0,8.0,8.0,5.0,10.0,easy,better salary,female,22,India,No Reponse,indian
+6/10/2022,9:03,0:01:59,student/looking/none,yes,20.0,currently studying . previously worked in power generation,r,1.0,3.0,6.0,6.0,6.0,9.0,difficult,remote work,male,36,Barbados,bachelors,black or african american
+6/10/2022,9:03,0:01:18,data engineer,no,75.5,finance,python,2.0,1.0,1.0,1.0,3.0,7.0,easy,remote work,female,28,United states,masters,asian or asian american
+6/10/2022,9:05,0:01:44,data analyst,yes,75.5,tech,python,6.0,6.0,6.0,6.0,5.0,6.0,difficult,currently very happy with where i am.,female,24,United states,bachelors,hispanic or latino
+6/10/2022,9:06,0:01:58,business analyst,no,53.0,third party logistics ,c/c++,3.0,6.0,7.0,7.0,0.0,3.0,very difficult,better salary,male,29,United states,bachelors,white or caucasian
+6/10/2022,9:07,0:02:15,data analyst,no,20.0,tech,python,4.0,9.0,10.0,9.0,9.0,10.0,easy,better salary,male,29,Colombia,associates,hispanic or latino
+6/10/2022,9:08,0:02:04,business analyst,yes,53.0,automotive,python,6.0,8.0,8.0,7.0,9.0,7.0,neither easy nor difficult,good work/life balance,male,38,Germany,masters,white or caucasian
+6/10/2022,9:08,0:01:46,data analyst,yes,20.0,finance,i don’t know any,3.0,5.0,4.0,3.0,3.0,3.0,difficult,good work/life balance,male,31,Bulgaria,masters,white or caucasian
+6/10/2022,9:09,0:01:33,student/looking/none,no,20.0,tech,python,1.0,4.0,5.0,5.0,1.0,1.0,difficult,better salary,male,25,United states,masters,white or caucasian
+6/10/2022,9:09,0:01:09,data analyst,no,75.5,telecommunication,python,4.0,6.0,4.0,5.0,4.0,4.0,neither easy nor difficult,better salary,male,24,United states,masters,white or caucasian
+6/10/2022,9:12,0:04:03,business intelligence consultant,yes,53.0,tech,python,6.0,7.0,4.0,3.0,9.0,8.0,difficult,better salary,male,28,Turkey,bachelors,white or caucasian
+6/10/2022,9:13,0:01:03,student/looking/none,no,20.0,tech,python,7.0,5.0,8.0,0.0,0.0,0.0,neither easy nor difficult,good culture,female,23,India,bachelors,asian or asian american
+6/10/2022,9:13,0:01:01,data engineer,no,20.0,tech,r,2.0,3.0,2.0,5.0,5.0,7.0,neither easy nor difficult,remote work,male,21,Spain,masters,hispanic or latino
+6/10/2022,9:14,0:02:43,data analyst,no,20.0,energy,python,4.0,4.0,4.0,4.0,5.0,6.0,neither easy nor difficult,remote work,male,29,France,bachelors,human
+6/10/2022,9:15,0:03:15,data analyst,yes,53.0,tech,python,5.0,6.0,7.0,7.0,7.0,6.0,difficult,better salary,male,25,United states,bachelors,asian or asian american
+6/10/2022,9:15,0:01:24,data analyst,no,53.0,tech,python,6.0,6.0,6.0,6.0,3.0,5.0,difficult,good culture,male,27,Germany,masters,black or african american
+6/10/2022,9:16,0:01:28,data analyst,yes,53.0,tech,python,3.0,9.0,10.0,8.0,9.0,9.0,easy,better salary,male,23,India,bachelors,asian or asian american
+6/10/2022,9:16,0:02:36,sr. supply chain analyst,no,95.5,food & beverage ,r,4.0,3.0,3.0,5.0,5.0,5.0,difficult,better salary,male,32,United states,masters,asian or asian american
+6/10/2022,9:17,0:02:41,student/looking/none,yes,115.5,healthcare,python,5.0,5.0,7.0,5.0,7.0,7.0,neither easy nor difficult,remote work,male,22,India,bachelors,asian or asian american
+6/10/2022,9:17,0:04:14,data analyst,no,20.0,tech,python,2.0,9.0,9.0,8.0,6.0,2.0,easy,better salary,male,25,Thailand,bachelors,asian or asian american
+6/10/2022,9:18,0:01:15,data analyst,yes,20.0,telecommunication,python,2.0,8.0,6.0,6.0,5.0,5.0,neither easy nor difficult,remote work,female,36,Germany,masters,white or caucasian
+6/10/2022,9:19,0:02:21,data analyst,yes,115.5,tech,sql,10.0,6.0,9.0,5.0,8.0,7.0,easy,good work/life balance,female,27,United states,bachelors,white or caucasian
+6/10/2022,9:19,0:02:17,business analyst,yes,20.0,tech,python,5.0,5.0,5.0,5.0,5.0,1.0,neither easy nor difficult,my passion is to become a data analyst ,male,23,India,bachelors,asian or asian american
+6/10/2022,9:19,0:01:32,student/looking/none,yes,20.0,tech,sql,2.0,3.0,3.0,3.0,3.0,6.0,very difficult,better salary,male,26,Netherlands,bachelors,black or african american
+6/10/2022,9:20,0:01:19,director of data analytics,no,95.5,healthcare,python,9.0,10.0,10.0,10.0,10.0,10.0,very easy,good work/life balance,female,33,United states,phd,hispanic or latino
+6/10/2022,9:20,0:01:33,data analyst,yes,115.5,automotive,python,3.0,5.0,3.0,3.0,5.0,5.0,easy,better salary,male,27,Turkey,masters,white or caucasian
+6/10/2022,9:21,0:01:38,data analyst,yes,53.0,education,r,3.0,6.0,5.0,4.0,3.0,4.0,neither easy nor difficult,better salary,male,42,United states,associates,white or caucasian
+6/10/2022,9:21,0:02:36,data analyst,yes,20.0,tech,python,6.0,7.0,8.0,7.0,7.0,8.0,easy,good work/life balance,male,29,Spain,masters,white or caucasian
+6/10/2022,9:22,0:01:08,data analyst,no,137.5,tech,python,4.0,7.0,6.0,4.0,2.0,4.0,easy,better salary,female,27,United states,masters,asian or asian american
+6/10/2022,9:22,0:01:41,student/looking/none,no,53.0,healthcare,python,0.0,10.0,10.0,10.0,4.0,2.0,neither easy nor difficult,remote work,female,39,United states,bachelors,hispanic or latino
+6/10/2022,9:23,0:01:36,data analyst,yes,53.0,telecommunication,python,6.0,6.0,7.0,5.0,6.0,7.0,difficult,good culture,male,31,Denmark,masters,white or caucasian
+6/10/2022,9:23,0:03:09,data analyst,yes,75.5,marketing,python,7.0,7.0,5.0,9.0,7.0,8.0,easy,good work/life balance,male,29,Brazil,bachelors,hispanic or latino
+6/10/2022,9:25,0:01:22,data analyst,yes,75.5,education,r,7.0,7.0,7.0,7.0,4.0,7.0,easy,remote work,male,31,United states,masters,white or caucasian
+6/10/2022,9:26,0:01:30,data analyst,yes,20.0,finance,python,10.0,9.0,9.0,10.0,9.0,10.0,neither easy nor difficult,good culture,male,30,Mexico,masters,hispanic or latino
+6/10/2022,9:26,0:03:05,data engineer,yes,20.0,tech,python,7.0,8.0,6.0,5.0,5.0,9.0,difficult,better salary,male,33,Mexico,masters,hispanic or latino
+6/10/2022,9:27,0:00:58,data analyst,no,75.5,retail,python,7.0,8.0,9.0,7.0,7.0,7.0,neither easy nor difficult,better salary,male,25,United states,bachelors,white or caucasian
+6/10/2022,9:27,0:01:09,student/looking/none,no,20.0,tech,r,0.0,0.0,0.0,0.0,0.0,0.0,neither easy nor difficult,good work/life balance,male,23,India,bachelors,indian
+6/10/2022,9:27,0:01:51,data analyst,yes,53.0,advertising,na,4.0,4.0,3.0,3.0,5.0,6.0,very difficult,better salary,male,33,United states,bachelors,asian or asian american
+6/10/2022,9:27,0:02:29,business analyst,yes,75.5,logistics,python,7.0,9.0,9.0,8.0,8.0,9.0,neither easy nor difficult,good work/life balance,male,35,Chile,bachelors,hispanic or latino
+6/10/2022,9:29,0:01:14,data analyst,no,75.5,tech,python,3.0,4.0,2.0,1.0,0.0,4.0,neither easy nor difficult,better salary,male,25,United states,bachelors,white or caucasian
+6/10/2022,9:30,0:03:00,data analyst,no,95.5,automotive,python,5.0,4.0,5.0,4.0,3.0,6.0,neither easy nor difficult,"different job title, either product owner or consulting",male,23,United states,bachelors,white or caucasian
+6/10/2022,9:31,0:02:02,learning management specialist,no,53.0,healthcare,javascript,2.0,4.0,6.0,5.0,3.0,4.0,easy,better salary,female,51,United states,bachelors,black or african american
+6/10/2022,9:32,0:01:45,data analyst,no,20.0,telecommunication,other,1.0,4.0,4.0,3.0,2.0,6.0,very difficult,better salary,male,30,United kingdom,bachelors,black or african american
+6/10/2022,9:33,0:01:41,data analyst,yes,53.0,finance,python,8.0,9.0,9.0,9.0,9.0,8.0,very difficult,better salary,male,23,India,bachelors,asian or asian american
+6/10/2022,9:34,0:01:06,research analyst,yes,53.0,advertising,r,3.0,5.0,5.0,6.0,3.0,4.0,neither easy nor difficult,better salary,male,24,Canada,bachelors,asian or asian american
+6/10/2022,9:35,0:01:06,student/looking/none,yes,53.0,tech,python,6.0,6.0,6.0,6.0,6.0,6.0,easy,good culture,male,25,Australiaalia,masters,asian or asian american
+6/10/2022,9:35,0:02:22,data analyst,yes,53.0,finance,python,4.0,4.0,6.0,4.0,5.0,6.0,difficult,better salary,female,55,United states,masters,race isn't a thing
+6/10/2022,9:36,0:01:56,data analyst,no,95.5,biotech,r,8.0,10.0,8.0,7.0,8.0,10.0,very easy,remote work,female,30,United states,masters,white or caucasian
+6/10/2022,9:36,0:01:10,data analyst,yes,53.0,consulting,python,9.0,9.0,9.0,9.0,7.0,4.0,difficult,better salary,male,25,Canada,bachelors,asian or asian american
+6/10/2022,9:37,0:00:28,data analyst,yes,75.5,consumer elec,python,6.0,9.0,7.0,6.0,7.0,7.0,neither easy nor difficult,better salary,male,28,United states,masters,white or caucasian
+6/10/2022,9:38,0:02:22,insights analyst,yes,53.0,consulting,python,8.0,8.0,9.0,9.0,10.0,10.0,very easy,better salary,male,34,United kingdom,bachelors,white or caucasian
+6/10/2022,9:38,0:03:18,data analyst,yes,20.0,tech,python,8.0,10.0,9.0,9.0,10.0,8.0,neither easy nor difficult,better salary,female,28,Costa rica,bachelors,hispanic or latino
+6/10/2022,9:39,0:01:55,student/looking/none,no,20.0,semiconductor manufacturing,other,7.0,9.0,7.0,8.0,8.0,10.0,neither easy nor difficult,better salary,male,24,Vietnam,bachelors,asian or asian american
+6/10/2022,9:39,0:01:15,student/looking/none,yes,20.0,healthcare,python,3.0,7.0,7.0,7.0,1.0,2.0,difficult,better salary,male,31,United states,masters,black or african american
+6/10/2022,9:40,0:02:07,data analyst,yes,53.0,"supply chain - warehousing, transpiration and ",sql,3.0,6.0,6.0,6.0,4.0,4.0,easy,better salary,male,25,Canada,bachelors,asian or asian american
+6/10/2022,9:40,0:01:05,data analyst,yes,115.5,finance,python,5.0,1.0,4.0,3.0,3.0,4.0,easy,better salary,female,38,United states,bachelors,white or caucasian
+6/10/2022,9:40,0:01:32,data analyst,no,53.0,finance,python,5.0,5.0,5.0,5.0,4.0,5.0,neither easy nor difficult,good culture,male,30,Netherlands,bachelors,hispanic or latino
+6/10/2022,9:40,0:01:32,data analyst,yes,20.0,tech,c/c++,0.0,0.0,0.0,2.0,2.0,5.0,neither easy nor difficult,good work/life balance,male,25,India,bachelors,asian or asian american
+6/10/2022,9:41,0:01:08,data analyst,yes,20.0,tech,python,1.0,2.0,1.0,5.0,6.0,6.0,neither easy nor difficult,better salary,female,29,Nigeria,bachelors,black or african american
+6/10/2022,9:44,0:04:27,data scientist,yes,187.5,finance,python,7.0,5.0,3.0,6.0,4.0,4.0,difficult,good work/life balance,male,21,Portugal,masters,white or caucasian
+6/10/2022,9:44,0:02:00,data analyst,yes,75.5,distribution,sql,5.0,8.0,8.0,7.0,6.0,7.0,very easy,remote work,female,39,United states,bachelors,asian or asian american
+6/10/2022,9:45,0:01:19,student/looking/none,no,20.0,other (please specify),python,0.0,0.0,0.0,0.0,0.0,5.0,neither easy nor difficult,better salary,male,25,Turkey,bachelors,white or caucasian
+6/10/2022,9:45,0:02:36,social media analyst,yes,95.5,finance,na,7.0,9.0,10.0,6.0,4.0,4.0,neither easy nor difficult,opportunity for advancement ,female,42,United states,masters,hispanic or latino
+6/10/2022,9:46,0:00:48,data analyst,no,53.0,tech,r,10.0,8.0,9.0,10.0,10.0,10.0,easy,better salary,male,25,United states,bachelors,white or caucasian
+6/10/2022,9:47,0:01:20,data scientist,no,95.5,finance,python,8.0,7.0,6.0,6.0,5.0,9.0,neither easy nor difficult,better salary,male,22,United states,bachelors,white or caucasian
+6/10/2022,9:48,0:02:36,data engineer,yes,53.0,ecom,javascript,6.0,6.0,6.0,6.0,6.0,6.0,difficult,good culture,male,25,Egypt,high school,middleeas
+6/10/2022,9:48,0:01:05,data engineer,yes,75.5,consulti,python,5.0,7.0,7.0,6.0,6.0,7.0,neither easy nor difficult,better salary,male,45,Canada,masters,white or caucasian
+6/10/2022,9:49,0:01:29,data analyst,yes,75.5,healthcare,sql,7.0,3.0,8.0,6.0,8.0,8.0,easy,good work/life balance,male,24,United states,bachelors,white or caucasian
+6/10/2022,9:49,0:03:57,student/looking/none,no,20.0,state government,r,1.0,9.0,6.0,0.0,0.0,0.0,difficult,better salary,male,25,United states,No Reponse,black or african american
+6/10/2022,9:51,0:01:36,data analyst,yes,75.5,marketing,python,9.0,8.0,9.0,9.0,8.0,8.0,difficult,good work/life balance,male,26,United states,bachelors,white or caucasian
+6/10/2022,9:54,0:01:41,data analyst,no,53.0,tech,r,4.0,7.0,8.0,8.0,5.0,7.0,easy,better salary,male,23,Canada,bachelors,asian or asian american
+6/10/2022,9:55,0:01:37,student/looking/none,yes,20.0,culture,python,1.0,1.0,1.0,0.0,0.0,3.0,difficult,remote work,female,42,United kingdom,masters,white or caucasian
+6/10/2022,9:56,0:01:30,educator,yes,53.0,education,na,0.0,0.0,2.0,0.0,0.0,0.0,very difficult,good work/life balance,female,42,United states,bachelors,black or african american
+6/10/2022,9:57,0:01:26,business analyst,no,20.0,tech,python,0.0,6.0,5.0,5.0,3.0,1.0,neither easy nor difficult,better salary,male,25,India,masters,asian or asian american
+6/10/2022,9:58,0:02:24,data analyst,yes,95.5,tech,r,8.0,10.0,10.0,10.0,2.0,7.0,easy,remote work,male,38,United states,masters,white or caucasian
+6/10/2022,9:58,0:02:51,business intelligence engineer,no,20.0,tech,python,5.0,6.0,6.0,6.0,6.0,4.0,easy,better salary,male,24,Costa rica,bachelors,hispanic or latino
+6/10/2022,10:01,0:01:37,data analyst,yes,75.5,education,r,7.0,10.0,10.0,10.0,8.0,10.0,neither easy nor difficult,good work/life balance,male,28,United states,bachelors,white or caucasian
+6/10/2022,10:03,0:01:06,data analyst,no,53.0,healthcare,python,1.0,2.0,8.0,7.0,0.0,0.0,difficult,better salary,male,21,United states,bachelors,asian or asian american
+6/10/2022,10:03,0:01:13,data analyst,yes,115.5,healthcare,r,10.0,10.0,10.0,10.0,10.0,10.0,very easy,good culture,male,39,United states,masters,white or caucasian
+6/10/2022,10:05,0:03:29,data analyst,yes,20.0,tech,python,4.0,5.0,5.0,5.0,6.0,8.0,difficult,good work/life balance,male,23,Pakistan,bachelors,asian or asian american
+6/10/2022,10:05,0:01:17,data analyst,no,20.0,government,r,1.0,6.0,4.0,3.0,5.0,6.0,neither easy nor difficult,good work/life balance,female,23,Australiaalia,bachelors,white or caucasian
+6/10/2022,10:05,0:02:03,data analyst,yes,75.5,distribution,r,8.0,9.0,8.0,7.0,7.0,8.0,neither easy nor difficult,good work/life balance,male,30,United states,masters,white or caucasian
+6/10/2022,10:06,0:01:16,data analyst,no,53.0,manufacturing,python,2.0,6.0,2.0,3.0,2.0,2.0,easy,better salary,male,26,Irelandlandand,masters,white or caucasian
+6/10/2022,10:06,0:02:18,data analyst,yes,53.0,healthcare,r,3.0,6.0,4.0,6.0,4.0,6.0,neither easy nor difficult,better salary,male,37,United states,bachelors,white or caucasian
+6/10/2022,10:08,0:01:22,data analyst,yes,75.5,healthcare,python,3.0,5.0,4.0,5.0,4.0,4.0,neither easy nor difficult,better salary,female,31,United states,bachelors,white or caucasian
+6/10/2022,10:11,0:02:03,data analyst,yes,20.0,finance,c/c++,5.0,2.0,4.0,3.0,3.0,3.0,difficult,good work/life balance,female,25,South africa,bachelors,black or african american
+6/10/2022,10:12,0:02:04,data analyst,yes,20.0,healthcare,python,2.0,6.0,6.0,5.0,4.0,5.0,easy,better salary,female,26,Poland,bachelors,white or caucasian
+6/10/2022,10:13,0:01:28,data analyst,yes,75.5,healthcare,sql,7.0,8.0,8.0,8.0,8.0,7.0,very easy,better salary,male,30,United states,bachelors,white or caucasian
+6/10/2022,10:13,0:01:39,data analyst,yes,75.5,tech,python,9.0,10.0,10.0,10.0,7.0,9.0,neither easy nor difficult,better salary,female,39,United states,bachelors,black or african american
+6/10/2022,10:16,0:00:53,research associate,no,20.0,education,python,1.0,1.0,1.0,0.0,0.0,2.0,easy,good work/life balance,female,28,India,masters,asian or asian american
+6/10/2022,10:18,0:01:46,data analyst,yes,75.5,finance,sql,8.0,8.0,7.0,7.0,10.0,10.0,very easy,good work/life balance,male,22,United states,bachelors,mixed ( caucasian / african-american )
+6/10/2022,10:19,0:02:45,data analyst,yes,20.0,telecommunication,python,3.0,2.0,4.0,2.0,2.0,2.0,neither easy nor difficult,good culture,male,28,Mozambique,bachelors,black or african american
+6/10/2022,10:20,0:01:44,analytics manager,no,187.5,tech,r,8.0,10.0,9.0,7.0,5.0,5.0,neither easy nor difficult,remote work,male,33,United states,masters,white or caucasian
+6/10/2022,10:21,0:05:11,data analyst,yes,20.0,finance,sql,2.0,3.0,3.0,3.0,2.0,4.0,neither easy nor difficult,good work/life balance,female,22,Egypt,bachelors,half asian half african 
+6/10/2022,10:23,0:01:48,student/looking/none,no,20.0,tech,python,3.0,5.0,5.0,4.0,4.0,5.0,neither easy nor difficult,better salary,male,27,India,bachelors,brown
+6/10/2022,10:25,0:03:42,data analyst,yes,115.5,cons,dax,8.0,8.0,8.0,8.0,10.0,10.0,easy,good work/life balance,male,37,United states,bachelors,prefer not to ans
+6/10/2022,10:25,0:22:47,business analyst,no,53.0,wholesale,r,3.0,4.0,5.0,5.0,4.0,3.0,difficult,better salary,male,24,United states,masters,white or caucasian
+6/10/2022,10:27,0:01:20,data analyst,no,53.0,healthcare,r,1.0,4.0,3.0,2.0,0.0,6.0,difficult,better salary,male,25,United kingdom,masters,asian or asian american
+6/10/2022,10:27,0:01:24,data engineer,no,95.5,healthcare,r,8.0,10.0,8.0,8.0,9.0,10.0,neither easy nor difficult,good culture,male,28,United states,masters,black or african american
+6/10/2022,10:29,0:02:07,data analyst,yes,53.0,energy ,python,5.0,5.0,7.0,7.0,7.0,7.0,easy,better salary,male,32,United kingdom,bachelors,white or caucasian
+6/10/2022,10:29,0:01:34,data analyst,yes,53.0,government programs,python,0.0,7.0,7.0,7.0,0.0,7.0,easy,good culture,male,29,United states,bachelors,asian or asian american
+6/10/2022,10:33,0:02:50,data analyst,no,53.0,healthcare,r,7.0,5.0,8.0,6.0,5.0,10.0,difficult,"want to move from australia to canada, so position in desired country ",female,26,Australiaalia,masters,white or caucasian
+6/10/2022,10:37,0:03:01,data engineer,yes,53.0,tech,python,0.0,7.0,5.0,0.0,0.0,7.0,neither easy nor difficult,remote work,male,37,Canada,masters,white or caucasian
+6/10/2022,10:39,0:01:44,data analyst,no,53.0,supply chain,r,4.0,6.0,5.0,4.0,5.0,6.0,neither easy nor difficult,better salary,male,25,United states,bachelors,white or caucasian
+6/10/2022,10:40,0:01:36,data analyst,no,20.0,finance,sql,4.0,4.0,5.0,6.0,6.0,0.0,difficult,better salary,male,24,Israel,high school,white or caucasian
+6/10/2022,10:41,0:02:45,data analyst manager,no,137.5,finance,sql,7.0,8.0,8.0,8.0,7.0,8.0,easy,better salary,male,52,United states,bachelors,white or caucasian
+6/10/2022,10:43,0:04:22,data analyst,yes,53.0,finance,python,6.0,10.0,3.0,5.0,0.0,10.0,difficult,good culture,male,27,Singapore,bachelors,asian or asian american
+6/10/2022,10:47,0:01:07,data analyst,no,115.5,healthcare,other,6.0,6.0,3.0,3.0,3.0,3.0,neither easy nor difficult,better salary,female,29,United states,masters,white or caucasian
+6/10/2022,10:50,0:01:39,student/looking/none,no,20.0,tech,python,3.0,7.0,6.0,7.0,0.0,0.0,difficult,better salary,male,42,Brazil,associates,white or caucasian
+6/10/2022,10:52,0:01:24,data analyst,yes,53.0,telecommunication,r,3.0,5.0,6.0,4.0,3.0,7.0,difficult,all of the options are important to me when looking for a new job,male,28,United states,masters,white or caucasian
+6/10/2022,10:52,0:02:39,data analyst,yes,20.0,tech,python,8.0,8.0,8.0,8.0,8.0,9.0,neither easy nor difficult,good work/life balance,male,44,Costa rica,bachelors,hispanic or latino
+6/10/2022,10:53,0:01:30,data engineer,yes,20.0,tech,python,5.0,5.0,6.0,5.0,6.0,7.0,neither easy nor difficult,remote work,male,23,Spain,bachelors,white or caucasian
+6/10/2022,10:53,0:01:14,data analyst,no,53.0,entertainment,r,1.0,2.0,6.0,4.0,2.0,0.0,easy,better salary,male,27,United states,bachelors,hispanic or latino
+6/10/2022,10:54,0:01:05,data analyst,no,75.5,construction,python,3.0,3.0,3.0,2.0,2.0,1.0,neither easy nor difficult,good culture,male,26,United states,masters,white or caucasian
+6/10/2022,10:55,0:01:14,data analyst,yes,95.5,healthcare,vba,3.0,4.0,4.0,4.0,1.0,3.0,neither easy nor difficult,better salary,male,27,United states,masters,hispanic or latino
+6/10/2022,10:56,0:01:45,data analyst,yes,75.5,retail,python,0.0,0.0,7.0,1.0,0.0,9.0,difficult,better salary,male,33,Canada,bachelors,asian or asian american
+6/10/2022,10:56,0:01:44,data analyst,yes,75.5,aerospace,python,8.0,10.0,10.0,10.0,10.0,10.0,easy,better salary,male,28,United states,bachelors,hispanic or latino
+6/10/2022,11:00,0:01:29,data analyst,yes,20.0,tech,r,2.0,8.0,8.0,7.0,6.0,9.0,neither easy nor difficult,better salary,male,32,Kenya,bachelors,black or african american
+6/10/2022,11:04,0:02:38,student/looking/none,yes,53.0,foodservice franchising,python,2.0,4.0,6.0,1.0,1.0,1.0,very difficult,better salary,male,34,Canada,associates,asian or asian american
+6/10/2022,11:04,0:01:04,data analyst,no,187.5,tech,python,10.0,10.0,10.0,8.0,10.0,10.0,easy,good work/life balance,male,28,United states,bachelors,asian or asian american
+6/10/2022,11:09,0:01:51,data scientist,yes,137.5,telecommunication,python,2.0,4.0,1.0,3.0,1.0,7.0,neither easy nor difficult,better salary,male,27,India,bachelors,indian
+6/10/2022,11:09,0:01:35,data engineer,yes,53.0,finance,python,2.0,4.0,5.0,5.0,4.0,6.0,difficult,better salary,male,22,United states,bachelors,white or caucasian
+6/10/2022,11:11,0:01:03,data analyst,no,75.5,healthcare,python,3.0,3.0,4.0,1.0,2.0,2.0,neither easy nor difficult,better salary,male,29,United states,masters,white or caucasian
+6/10/2022,11:13,0:02:17,data analyst,no,75.5,healthcare,python,8.0,10.0,10.0,8.0,5.0,7.0,neither easy nor difficult,good work/life balance,female,31,United states,masters,white or caucasian
+6/10/2022,11:13,0:01:39,data analyst,no,75.5,tech,python,4.0,5.0,5.0,5.0,4.0,4.0,easy,remote work,male,28,United states,bachelors,white or caucasian
+6/10/2022,11:14,0:00:53,student/looking/none,no,20.0,healthcare,python,0.0,0.0,0.0,0.0,0.0,0.0,neither easy nor difficult,good work/life balance,male,24,United states,masters,asian or asian american
+6/10/2022,11:15,0:01:19,data analyst,no,95.5,government ,stata,4.0,5.0,3.0,4.0,2.0,3.0,easy,good culture,male,34,United states,masters,white or caucasian
+6/10/2022,11:18,0:01:16,data engineer,no,95.5,tech,python,5.0,3.0,5.0,5.0,4.0,5.0,difficult,better salary,male,23,United states,bachelors,white or caucasian
+6/10/2022,11:18,0:02:08,student/looking/none,no,53.0,construction,excel,10.0,4.0,10.0,10.0,4.0,10.0,neither easy nor difficult,remote work,male,32,Belgium,masters,white or caucasian
+6/10/2022,11:20,0:01:31,data analyst,yes,20.0,healthcare,r,6.0,8.0,6.0,6.0,8.0,10.0,easy,remote work,male,29,Argentina,high school,hispanic or latino
+6/10/2022,11:22,0:01:39,data analyst,yes,20.0,education,python,0.0,0.0,0.0,0.0,0.0,0.0,very difficult,better salary,male,34,Nigeria,bachelors,black or african american
+6/10/2022,11:22,0:00:55,data analyst,no,75.5,finance,python,7.0,5.0,5.0,7.0,9.0,10.0,very easy,remote work,male,24,United kingdom,bachelors,white or caucasian
+6/10/2022,11:23,0:02:19,analyst,no,75.5,tech,python,0.0,10.0,6.0,0.0,0.0,0.0,difficult,better salary,male,30,United states,bachelors,indian
+6/10/2022,11:25,0:01:59,analytics engineer,no,95.5,entertainment ,python,5.0,5.0,6.0,4.0,5.0,5.0,difficult,better salary,male,24,United states,masters,hispanic or latino
+6/10/2022,11:25,0:01:52,data analyst,yes,53.0,insurance,python,6.0,8.0,10.0,9.0,7.0,9.0,easy,better salary,male,27,United states,bachelors,n/a
+6/10/2022,11:29,0:03:30,data analyst,no,20.0,finance,python,1.0,2.0,4.0,4.0,4.0,5.0,neither easy nor difficult,better salary,male,21,India,bachelors,asian or asian american
+6/10/2022,11:40,0:02:38,data analyst,yes,20.0,telecommunication,r,5.0,7.0,5.0,5.0,5.0,7.0,difficult,better salary,male,41,Egypt,bachelors,white or caucasian
+6/10/2022,11:45,0:02:07,data analyst,yes,20.0,tech,python,0.0,1.0,1.0,0.0,0.0,2.0,difficult,better salary,male,25,India,bachelors,asian or asian american
+6/10/2022,11:46,0:03:59,data analyst,no,20.0,finance,na,4.0,7.0,8.0,8.0,8.0,9.0,neither easy nor difficult,an environment that encourages growth like where i work currently and better salary ,male,24,Nigeria,bachelors,black or african american
+6/10/2022,11:47,0:02:01,data analyst,no,20.0,finance,python,6.0,5.0,6.0,5.0,6.0,6.0,neither easy nor difficult,better salary,male,30,Somalia,masters,african 
+6/10/2022,11:49,0:02:40,data analyst,no,75.5,energy (oil and gas),altery,7.0,4.0,10.0,9.0,7.0,10.0,difficult,better salary,male,23,United states,bachelors,hispanic or latino
+6/10/2022,11:49,0:01:34,data analyst,yes,75.5,tech,python,6.0,6.0,6.0,6.0,6.0,6.0,difficult,remote work,female,33,United kingdom,masters,asian or asian american
+6/10/2022,11:50,0:00:48,data analyst,no,115.5,finance,python,4.0,4.0,4.0,4.0,4.0,4.0,neither easy nor difficult,better salary,male,25,United states,bachelors,white or caucasian
+6/10/2022,11:51,0:00:57,data analyst,no,20.0,market research,python,5.0,5.0,5.0,5.0,5.0,5.0,neither easy nor difficult,remote work,female,27,Kosovo,masters,white or caucasian
+6/10/2022,11:53,0:01:45,data analyst,yes,20.0,finance,c/c++,5.0,10.0,10.0,8.0,10.0,10.0,very easy,good work/life balance,male,30,United kingdom,bachelors,white or caucasian
+6/10/2022,11:55,0:03:43,analyst primary market intelligence,yes,20.0,healthcare,python,10.0,2.0,8.0,5.0,0.0,6.0,easy,better salary,male,25,India,masters,indian
+6/10/2022,11:55,0:01:28,data analyst,no,95.5,telecommunication,na,7.0,7.0,5.0,7.0,7.0,7.0,easy,remote work,male,40,United states,high school,hispanic or latino
+6/10/2022,12:01,0:02:59,data analyst,no,53.0,government,other,6.0,10.0,8.0,8.0,4.0,4.0,neither easy nor difficult,better salary,female,29,Canada,bachelors,other (please specify)
+6/10/2022,12:03,0:01:40,data analyst,yes,20.0,education,python,1.0,2.0,2.0,3.0,3.0,4.0,neither easy nor difficult,better salary,male,28,Nigeria,masters,black or african american
+6/10/2022,12:04,0:02:21,software engineer,no,95.5,hospitality,c#,5.0,2.0,0.0,2.0,0.0,0.0,neither easy nor difficult,good work/life balance,male,34,United kingdom,bachelors,white or caucasian
+6/10/2022,12:10,0:02:58,student/looking/none,no,20.0,tech,python,0.0,4.0,7.0,6.0,7.0,8.0,easy,learning possibilities,male,24,Belgium,masters,white or caucasian
+6/10/2022,12:11,0:02:23,data analyst,yes,20.0,telecommunication,python,5.0,8.0,8.0,9.0,7.0,9.0,very easy,better salary,male,26,Iraq,bachelors,kurdish
+6/10/2022,12:16,0:01:21,data analyst,no,137.5,tech,python,10.0,5.0,10.0,10.0,6.0,10.0,difficult,good work/life balance,male,28,United states,bachelors,hispanic or latino
+6/10/2022,12:16,0:00:59,student/looking/none,no,20.0,education,r,5.0,4.0,4.0,4.0,5.0,5.0,difficult,good work/life balance,male,25,Germany,masters,white or caucasian
+6/10/2022,12:23,0:02:52,data analyst,yes,20.0,tech,python,1.0,4.0,9.0,7.0,8.0,10.0,easy,better salary,male,33,Colombia,bachelors,hispanic or latino
+6/10/2022,12:23,0:01:01,data analyst,yes,75.5,finance,python,4.0,4.0,6.0,3.0,4.0,0.0,neither easy nor difficult,remote work,male,30,Irelandlandand,masters,white or caucasian
+6/10/2022,12:25,0:02:51,data analyst,yes,20.0,finance,python,1.0,1.0,1.0,1.0,1.0,1.0,very difficult,better salary,male,35,India,bachelors,indian
+6/10/2022,12:28,0:01:57,data analyst,no,20.0,automotive,na,5.0,2.0,5.0,5.0,3.0,4.0,difficult,better salary,male,25,Romania,bachelors,white or caucasian
+6/10/2022,12:29,0:01:21,data analyst,no,20.0,real estate,python,4.0,7.0,9.0,5.0,2.0,8.0,easy,better salary,male,23,Spain,bachelors,white or caucasian
+6/10/2022,12:32,0:02:10,data engineer,no,20.0,healthcare,python,6.0,6.0,6.0,5.0,4.0,7.0,neither easy nor difficult,good work/life balance,male,24,Mexico,bachelors,hispanic or latino
+6/10/2022,12:40,0:02:40,data analyst,yes,187.5,education,sql,8.0,9.0,9.0,7.0,6.0,6.0,neither easy nor difficult,better salary,male,27,United states,masters,black or african american
+6/10/2022,12:47,0:01:24,data analyst,yes,75.5,chemical manufacturing,python,4.0,10.0,10.0,8.0,5.0,6.0,neither easy nor difficult,remote work,male,32,United states,bachelors,asian or asian american
+6/10/2022,12:55,0:01:55,data analyst,yes,53.0,tech,python,3.0,5.0,4.0,4.0,4.0,4.0,neither easy nor difficult,good work/life balance,male,50,Canada,bachelors,white or caucasian
+6/10/2022,12:55,0:01:25,data architect,yes,75.5,poultry,python,7.0,7.0,8.0,9.0,10.0,10.0,neither easy nor difficult,remote work,male,29,United states,high school,white or caucasian
+6/10/2022,12:57,0:03:54,data analyst,yes,20.0,telecommunication,r,2.0,8.0,7.0,6.0,5.0,6.0,neither easy nor difficult,good work/life balance,male,41,Peru,bachelors,hispanic or latino
+6/10/2022,12:58,0:01:54,data integrity,no,20.0,renewable resources,r,1.0,7.0,7.0,1.0,4.0,10.0,neither easy nor difficult,better salary,male,23,United states,associates,white or caucasian
+6/10/2022,13:07,0:03:34,data analyst,yes,20.0,finance,python,4.0,7.0,8.0,7.0,8.0,8.0,difficult,better salary,male,31,Nigeria,bachelors,black or african american
+6/10/2022,13:08,0:01:27,data analyst,no,20.0,healthcare,python,0.0,10.0,10.0,10.0,10.0,10.0,difficult,better salary,male,22,Philippines,bachelors,native hawaiian or other pacific islander
+6/10/2022,13:08,0:01:51,data analyst,no,75.5,finance,python,3.0,5.0,5.0,5.0,3.0,3.0,very difficult,better salary,male,29,United states,masters,hispanic or latino
+6/10/2022,13:09,0:02:04,data scientist,yes,20.0,tech,python,4.0,4.0,4.0,0.0,0.0,6.0,difficult,good culture,male,23,Malaysia,bachelors,indian
+6/10/2022,13:12,0:01:25,student/looking/none,no,20.0,customer service ,na,0.0,0.0,1.0,1.0,0.0,1.0,neither easy nor difficult,remote work,female,24,United states,high school,hispanic or latino
+6/10/2022,13:13,0:02:09,data analyst,yes,75.5, manufacturering ,python,5.0,9.0,10.0,10.0,5.0,10.0,neither easy nor difficult,better salary,male,26,United states,bachelors,black or african american
+6/10/2022,13:16,0:01:30,student/looking/none,yes,20.0,finance,python,4.0,3.0,5.0,2.0,2.0,3.0,difficult,good culture,male,31,India,bachelors,asian or asian american
+6/10/2022,13:20,0:01:31,data analyst,yes,20.0,sports,python,1.0,1.0,1.0,1.0,7.0,9.0,neither easy nor difficult,remote work,male,22,Nigeria,bachelors,black or african american
+6/10/2022,13:29,0:02:32,data analyst,yes,75.5,fashion/online store,python,7.0,8.0,10.0,8.0,7.0,5.0,neither easy nor difficult,remote work,male,31,Germany,bachelors,white or caucasian
+6/10/2022,13:31,0:01:21,student/looking/none,yes,20.0,tech,python,0.0,4.0,0.0,0.0,4.0,5.0,neither easy nor difficult,better salary,male,27,United states,masters,asian or asian american
+6/10/2022,13:32,0:01:32,student/looking/none,no,20.0,i am a student,python,1.0,1.0,2.0,1.0,1.0,1.0,difficult,better salary,female,25,United states,bachelors,asian or asian american
+6/10/2022,13:37,0:24:18,data analyst,yes,20.0,healthcare,python,4.0,10.0,10.0,8.0,8.0,10.0,easy,good work/life balance,male,30,Colombia,masters,hispanic or latino
+6/10/2022,13:39,0:01:44,data analyst,yes,53.0,healthcare,r,0.0,6.0,5.0,6.0,0.0,2.0,easy,opportunities for growth ,male,28,United states,masters,hispanic or latino
+6/10/2022,13:40,0:01:37,data analyst,no,137.5,finance,python,6.0,6.0,5.0,4.0,2.0,4.0,easy,remote work,male,26,United states,bachelors,white or caucasian
+6/10/2022,13:51,0:01:40,data scientist,yes,137.5,retail,python,6.0,7.0,7.0,10.0,6.0,7.0,neither easy nor difficult,remote work,female,32,United states,masters,white or caucasian
+6/10/2022,13:52,0:02:41,data analyst,yes,20.0,marketing ,sql,3.0,5.0,6.0,4.0,6.0,6.0,neither easy nor difficult,better salary,female,40,Poland,phd,white or caucasian
+6/10/2022,13:54,0:02:38,data engineer,yes,20.0,manufacturing,python,4.0,7.0,7.0,6.0,8.0,7.0,neither easy nor difficult,better salary,male,36,Singapore,associates,asian or asian american
+6/10/2022,13:54,0:01:29,data analyst,yes,75.5,finance,python,6.0,10.0,9.0,9.0,9.0,10.0,difficult,better salary,male,35,United states,bachelors,hispanic or latino
+6/10/2022,13:56,0:00:59,data analyst,yes,75.5,tech,python,3.0,4.0,4.0,4.0,5.0,5.0,very difficult,good work/life balance,male,29,United states,masters,asian or asian american
+6/10/2022,13:56,0:04:08,data analyst,no,53.0,finance,python,6.0,5.0,9.0,9.0,7.0,5.0,neither easy nor difficult,"i just started and i don't like programming so much, so i would search for a more ""impactiful"" role. meaning: being able to take decisions that steer the business.",female,25,Germany,masters,hispanic or latino
+6/10/2022,13:56,0:02:05,database developer,yes,53.0,hospitality ,python,6.0,8.0,8.0,9.0,6.0,8.0,difficult,remote work,male,29,United states,bachelors,white or caucasian
+6/10/2022,14:01,0:02:04,data analyst,no,95.5,agriculture,python,7.0,6.0,7.0,4.0,5.0,8.0,difficult,good work/life balance,male,26,United states,bachelors,black or african american
+6/10/2022,14:01,0:02:02,data analyst,no,20.0,marketing,r,1.0,1.0,1.0,1.0,1.0,1.0,neither easy nor difficult,remote work,male,34,Ghana,bachelors,black or african american
+6/10/2022,14:02,0:01:27,data analyst,yes,20.0,finance,python,5.0,2.0,5.0,4.0,3.0,5.0,neither easy nor difficult,good work/life balance,male,26,Egypt,bachelors,white or caucasian
+6/10/2022,14:05,0:02:11,data analyst,no,20.0,tech,python,3.0,3.0,5.0,4.0,3.0,2.0,difficult,good opportunities in projects and learnjng,female,22,India,bachelors,asian or asian american
+6/10/2022,14:09,0:01:40,student/looking/none,yes,20.0,construction,python,0.0,2.0,0.0,1.0,1.0,2.0,very difficult,remote work,female,24,Kenya,bachelors,black or african american
+6/10/2022,14:12,0:03:09,data analyst,no,20.0,medical industry ,python,3.0,6.0,6.0,6.0,4.0,3.0,neither easy nor difficult,better salary,male,26,Costa rica,bachelors,hispanic or latino
+6/10/2022,14:12,0:03:13,data architect,yes,20.0,finance,python,5.0,6.0,2.0,3.0,3.0,5.0,very difficult,good work/life balance,female,34,Portugal,masters,white or caucasian
+6/10/2022,14:13,0:02:27,data analyst,no,20.0,tech,python,3.0,5.0,4.0,5.0,4.0,2.0,neither easy nor difficult,better salary,male,29,India,bachelors,asian or asian american
+6/10/2022,14:14,0:01:27,data scientist,no,20.0,tech,r,2.0,7.0,7.0,7.0,7.0,7.0,easy,better salary,male,21,Nigeria,bachelors,black or african american
+6/10/2022,14:14,0:02:47,financial analyst,no,20.0,management,python,2.0,4.0,5.0,3.0,1.0,1.0,neither easy nor difficult,good work/life balance,female,35,Macedonia,masters,white or caucasian
+6/10/2022,14:15,0:01:43,data analyst,no,53.0,education,python,7.0,7.0,8.0,8.0,6.0,7.0,neither easy nor difficult,good work/life balance,male,26,United states,bachelors,black or african american
+6/10/2022,14:16,0:01:42,data analyst,yes,53.0,warehouse,python,2.0,4.0,7.0,10.0,5.0,10.0,neither easy nor difficult,remote work,male,28,United states,bachelors,white or caucasian
+6/10/2022,14:23,0:02:02,database manager,no,53.0,non profit animal welfare,python,1.0,5.0,5.0,1.0,0.0,3.0,easy,better salary,female,33,United states,bachelors,white or caucasian
+6/10/2022,14:25,0:01:57,data analyst,yes,75.5,consulting,sql,7.0,6.0,5.0,7.0,4.0,4.0,easy,better salary,female,56,United states,bachelors,white or caucasian
+6/10/2022,14:41,0:01:16,data scientist,yes,137.5,healthcare,python,4.0,5.0,5.0,5.0,4.0,5.0,difficult,better salary,male,28,United states,masters,white or caucasian
+6/10/2022,14:42,0:01:44,student/looking/none,no,20.0,none,javascript,0.0,0.0,0.0,0.0,0.0,10.0,neither easy nor difficult,remote work,male,21,Egypt,high school,white or caucasian
+6/10/2022,14:43,0:02:14,student/looking/none,no,75.5,social work ,python,2.0,2.0,4.0,1.0,2.0,1.0,neither easy nor difficult,good work/life balance,male,35,United states,masters,black or african american
+6/10/2022,14:43,0:01:25,data analyst,no,53.0,healthcare,python,7.0,5.0,9.0,9.0,9.0,8.0,neither easy nor difficult,remote work,male,29,Irelandland,masters,asian or asian american
+6/10/2022,14:47,0:01:18,data analyst,no,95.5,tech,python,9.0,10.0,8.0,8.0,7.0,7.0,neither easy nor difficult,projects i’m interested in,female,23,United states,bachelors,asian or asian american
+6/10/2022,14:48,0:03:06,tableau admin,no,53.0,finance,python,3.0,3.0,3.0,0.0,0.0,1.0,difficult,good work/life balance,male,25,India,bachelors,asian or asian american
+6/10/2022,14:51,0:01:36,data engineer,yes,95.5,e-commerce,python,8.0,7.0,10.0,9.0,10.0,10.0,easy,better salary,male,27,United states,masters,white or caucasian
+6/10/2022,14:53,0:01:54,data analyst,no,20.0,tech,python,3.0,8.0,7.0,5.0,8.0,7.0,neither easy nor difficult,better salary,male,22,India,bachelors,indian
+6/10/2022,14:58,0:02:02,data analyst,yes,20.0,it,python,6.0,3.0,5.0,7.0,5.0,7.0,neither easy nor difficult,good work/life balance,male,22,India,bachelors,asian or asian american
+6/10/2022,15:01,0:01:41,other,no,115.5,other (please specify),java,7.0,7.0,4.0,5.0,5.0,4.0,neither easy nor difficult,better salary,male,43,United states,masters,asian or asian american
+6/10/2022,15:03,0:05:13,reporting administrator,yes,20.0,tech,python,3.0,5.0,8.0,4.0,5.0,5.0,difficult,better salary,female,32,United states,bachelors,asian or asian american
+6/10/2022,15:11,0:01:40,billing analyst,no,75.5,legal,python,4.0,6.0,2.0,3.0,3.0,2.0,very difficult,remote work,male,31,United states,bachelors,hispanic or latino
+6/10/2022,15:14,0:01:20,data engineer,no,20.0,media & advertising ,python,0.0,10.0,10.0,5.0,0.0,3.0,neither easy nor difficult,better salary,male,25,United kingdom,bachelors,white or caucasian
+6/10/2022,15:14,0:01:49,data analyst,no,53.0,agriculture,sql,3.0,5.0,5.0,5.0,3.0,2.0,neither easy nor difficult,better salary,female,25,United states,masters,asian or asian american
+6/10/2022,15:14,0:01:27,data analyst,yes,115.5,aviation,sas,9.0,9.0,9.0,6.0,9.0,8.0,difficult,good work/life balance,male,31,United states,masters,asian or asian american
+6/10/2022,15:23,0:01:23,data scientist,yes,20.0,education,python,3.0,3.0,1.0,1.0,1.0,6.0,difficult,better salary,male,36,Morocco,masters,white or caucasian
+6/10/2022,15:25,0:02:24,data analyst,no,53.0,healthcare,python,6.0,8.0,8.0,8.0,8.0,10.0,neither easy nor difficult,good work/life balance,female,35,Bulgaria,masters,white or caucasian
+6/10/2022,15:27,0:01:40,data analyst,yes,75.5,utilities,r,6.0,10.0,10.0,10.0,9.0,8.0,easy,remote work,male,28,United states,bachelors,white or caucasian
+6/10/2022,15:28,0:01:55,data analyst,no,20.0,audit firm,python,8.0,8.0,9.0,9.0,8.0,7.0,neither easy nor difficult,better salary,male,27,Peru,bachelors,hispanic or latino
+6/10/2022,15:30,0:01:23,data analyst,yes,20.0,sports,python,7.0,4.0,7.0,4.0,8.0,10.0,easy,good work/life balance,male,25,Costa rica,bachelors,hispanic or latino
+6/10/2022,15:39,0:01:59,data analyst,no,20.0,e-commerce,python,6.0,6.0,10.0,8.0,6.0,8.0,neither easy nor difficult,better salary,male,25,Poland,bachelors,white or caucasian
+6/10/2022,15:41,0:01:10,marketing data specialist,no,53.0,sports/marketing,r,5.0,5.0,5.0,5.0,5.0,5.0,difficult,good work/life balance,male,22,United states,masters,white or caucasian
+6/10/2022,15:51,0:03:49,data analyst,yes,53.0,healthcare,na,7.0,8.0,8.0,4.0,6.0,8.0,neither easy nor difficult,good culture,male,38,Germany,high school,white or caucasian
+6/10/2022,15:55,0:01:47,data analyst,yes,20.0,education,python,0.0,0.0,5.0,0.0,0.0,0.0,difficult,good culture,male,27,Kenya,bachelors,black or african american
+6/10/2022,15:57,0:02:55,data analyst,yes,95.5,consulting,na,4.0,4.0,2.0,2.0,2.0,2.0,easy,remote work,female,34,Canada,bachelors,black or african american
+6/10/2022,16:03,0:01:45,data analyst,yes,75.5,nonprofit,python,9.0,10.0,10.0,9.0,8.0,10.0,difficult,better salary,female,31,United states,bachelors,white or caucasian
+6/10/2022,16:09,0:03:52,data analyst,yes,53.0,tech,python,4.0,9.0,8.0,8.0,6.0,10.0,neither easy nor difficult,better salary,female,33,Canada,masters,black or african american
+6/10/2022,16:22,0:00:59,student/looking/none,yes,20.0,tech,python,2.0,5.0,5.0,5.0,5.0,5.0,very difficult,remote work,male,23,United states,bachelors,asian or asian american
+6/10/2022,16:26,0:01:26,data analyst,yes,53.0,healthcare,excel,3.0,10.0,9.0,10.0,5.0,0.0,neither easy nor difficult,better salary,female,25,United states,bachelors,asian or asian american
+6/10/2022,16:30,0:01:54,data analyst,yes,20.0,tech,python,4.0,4.0,4.0,5.0,2.0,1.0,difficult,better salary,male,29,Iran,masters,white or caucasian
+6/10/2022,16:33,0:02:16,analytics engineer,yes,53.0,healthcare,r,5.0,7.0,9.0,8.0,8.0,8.0,neither easy nor difficult,better salary,female,29,United states,masters,black or african american
+6/10/2022,16:36,0:01:45,data analyst,yes,20.0,tech,r,3.0,4.0,4.0,4.0,4.0,2.0,easy,better salary,male,31,India,masters,asian or asian american
+6/10/2022,16:38,0:01:33,student/looking/none,no,20.0,real estate,r,0.0,5.0,0.0,0.0,0.0,0.0,very difficult,remote work,male,34,South africa,high school,black or african american
+6/10/2022,16:40,0:02:04,data analyst,yes,20.0,tech,python,3.0,2.0,4.0,3.0,7.0,8.0,easy,good work/life balance,male,26,Bangladesh,bachelors,bangladeshi
+6/10/2022,16:44,0:01:34,jr. data scientist,no,95.5,healthcare,python,4.0,6.0,5.0,6.0,6.0,4.0,neither easy nor difficult,remote work,female,26,United states,bachelors,white or caucasian
+6/10/2022,16:49,0:02:55,continuous quality improvement specialist,yes,53.0,law enforcement,dax,3.0,6.0,9.0,6.0,5.0,10.0,difficult,mentorship from leading data analyst,male,27,United states,masters,black or african american
+6/10/2022,16:52,0:01:42,data analyst,yes,75.5,last mile delivery logistics,python,8.0,5.0,9.0,6.0,6.0,10.0,neither easy nor difficult,remote work,male,26,United states,bachelors,white or caucasian
+6/10/2022,16:53,0:03:01,student/looking/none,yes,20.0,tech,python,4.0,5.0,4.0,4.0,3.0,4.0,very difficult,better salary,female,26,United states,masters,asian or asian american
+6/10/2022,17:01,0:01:18,data analyst,yes,53.0,finance,r,2.0,5.0,5.0,5.0,4.0,5.0,easy,better salary,male,24,United states,bachelors,white or caucasian
+6/10/2022,17:06,0:02:18,data analyst,yes,95.5,retail,python,4.0,6.0,3.0,4.0,4.0,2.0,easy,better salary,female,28,Ireland,masters,indian
+6/10/2022,17:09,0:01:18,data analyst,yes,115.5,manufacturing,r,8.0,8.0,10.0,9.0,7.0,5.0,easy,better salary,male,29,United states,bachelors,white or caucasian
+6/10/2022,17:13,0:01:02,data analyst,yes,75.5,finance,python,3.0,2.0,1.0,1.0,0.0,2.0,very difficult,better salary,female,26,United states,masters,asian or asian american
+6/10/2022,17:40,0:01:19,data analyst,yes,53.0,arrosp,python,3.0,5.0,3.0,3.0,1.0,1.0,neither easy nor difficult,better salary,male,28,United kingdom,bachelors,white or caucasian
+6/10/2022,17:41,0:04:19,data analyst,no,20.0,finance,python,6.0,8.0,7.0,6.0,2.0,4.0,easy,intresting work,male,25,France,masters,white or caucasian
+6/10/2022,17:47,0:01:30,data analyst,yes,75.5,finance,r,5.0,7.0,7.0,3.0,7.0,9.0,difficult,better salary,female,26,United states,bachelors,asian or asian american
+6/10/2022,18:00,0:05:36,data engineer,yes,137.5,healthcare,python,6.0,3.0,9.0,5.0,8.0,8.0,neither easy nor difficult,remote work,female,38,United states,masters,white or caucasian
+6/10/2022,18:05,0:02:00,other,yes,20.0,demography and social statistics ,sql,0.0,3.0,3.0,3.0,4.0,4.0,neither easy nor difficult,better salary,female,20,Nigeria,high school,black or african american
+6/10/2022,18:12,0:02:04,data analyst,no,75.5,education,sql,4.0,6.0,7.0,7.0,2.0,2.0,neither easy nor difficult,remote work,female,45,United states,masters,black or african american
+6/10/2022,18:17,0:01:18,data analyst,no,95.5,marketing ,python,5.0,3.0,5.0,6.0,6.0,4.0,difficult,good work/life balance,male,27,Canada,masters,pakistani
+6/10/2022,18:23,0:02:58,data analyst,yes,53.0,consulti,python,3.0,7.0,7.0,7.0,7.0,6.0,difficult,good culture,male,28,Canada,masters,asian or asian american
+6/10/2022,18:30,0:04:30,student/looking/none,yes,20.0,i`m currently student,r,2.0,10.0,10.0,10.0,10.0,3.0,neither easy nor difficult,remote work,female,29,Germany,bachelors,russian
+6/10/2022,18:38,0:01:57,pmo (project management office) manager,no,53.0,tech,c/c++,7.0,7.0,7.0,7.0,7.0,7.0,neither easy nor difficult,better salary,female,43,Singapore,high school,asian or asian american
+6/10/2022,18:40,0:02:27,data analyst,yes,20.0,finance,python,0.0,5.0,9.0,9.0,0.0,10.0,neither easy nor difficult,remote work,male,26,Antigua,bachelors,black or african american
+6/10/2022,18:48,0:04:17,student/looking/none,no,53.0,tech,sql,7.0,8.0,7.0,7.0,8.0,7.0,neither easy nor difficult,"mix of better salary, good work/life balance, remote work and good culture",female,47,United states,bachelors,black or african american
+6/10/2022,18:55,0:01:20,data analyst,yes,20.0,tech,python,0.0,1.0,1.0,1.0,1.0,2.0,very difficult,better salary,male,25,Egypt,bachelors,egyp
+6/10/2022,19:04,0:02:02,system administrator,no,20.0,finance,python,6.0,6.0,3.0,7.0,2.0,4.0,very difficult,learning opportunity,male,32,Poland,masters,white or caucasian
+6/10/2022,19:12,0:01:09,data analyst,yes,20.0,finance,python,1.0,10.0,10.0,5.0,3.0,1.0,neither easy nor difficult,better salary,female,25,United states,bachelors,white or caucasian
+6/10/2022,19:22,0:02:40,data analyst,no,20.0,finance,python,1.0,2.0,10.0,1.0,2.0,8.0,difficult,remote work,female,29,Venezuela,bachelors,hispanic or latino
+6/10/2022,19:27,0:01:11,data analyst,no,53.0,healthcare,sql,3.0,7.0,5.0,5.0,3.0,3.0,neither easy nor difficult,better salary,female,33,United states,bachelors,asian or asian american
+6/10/2022,19:50,0:04:51,data analyst,no,115.5,education,python,6.0,10.0,10.0,10.0,7.0,6.0,easy,learning new things,male,36,United states,masters,asian or asian american
+6/10/2022,19:53,0:01:32,data analyst,yes,53.0,healthcare,python,4.0,10.0,9.0,3.0,0.0,10.0,difficult,good work/life balance,male,25,United states,bachelors,white or caucasian
+6/10/2022,19:59,0:03:19,data scientist,no,187.5,other (please specify),python,8.0,7.0,8.0,7.0,7.0,8.0,neither easy nor difficult,good work/life balance,male,38,United states,masters,white or caucasian
+6/10/2022,20:05,0:03:42,data analyst,yes,75.5,oil and gas,r,3.0,2.0,6.0,6.0,5.0,4.0,difficult,good work/life balance,male,30,United states,masters,half black and half white
+6/10/2022,20:32,0:01:48,data analyst,yes,53.0,tech,python,3.0,5.0,6.0,6.0,6.0,7.0,difficult,good culture,male,35,United states,masters,black or african american
+6/10/2022,20:34,0:01:44,teacher,no,53.0,education,sql,0.0,1.0,10.0,5.0,0.0,0.0,difficult,better salary,female,42,United states,bachelors,white or caucasian
+6/10/2022,21:16,0:01:40,data analyst,yes,75.5,healthcare,python,3.0,5.0,4.0,6.0,4.0,6.0,easy,remote work,male,30,United states,masters,white or caucasian
+6/10/2022,21:23,0:01:57,student/looking/none,yes,20.0,none,python,0.0,0.0,0.0,0.0,0.0,4.0,very difficult,better salary,female,25,Nigeria,bachelors,black or african american
+6/10/2022,21:45,1:09:45,data analyst,no,95.5,healthcare,python,5.0,9.0,5.0,2.0,5.0,1.0,difficult,good culture,female,28,United states,bachelors,asian or asian american
+6/10/2022,21:57,0:04:54,data analyst,yes,20.0,manuf,python,5.0,10.0,8.0,5.0,7.0,10.0,very difficult,salary and expo,male,28,Canada,bachelors,asian or asian american
+6/10/2022,21:58,0:00:59,student/looking/none,no,20.0,student,sql,0.0,0.0,0.0,0.0,0.0,0.0,neither easy nor difficult,better salary,male,20,Malaysia,high school,asian or asian american
+6/10/2022,22:22,0:02:26,data analyst,yes,115.5,construction,vba,7.0,8.0,7.0,7.0,10.0,10.0,easy,good culture,male,33,United states,masters,hispanic or latino
+6/10/2022,22:29,0:12:09,data analyst,no,75.5,tech,python,8.0,6.0,7.0,7.0,8.0,8.0,easy,better salary,male,23,United states,associates,white or caucasian
+6/10/2022,22:32,0:00:43,data analyst,yes,20.0,healthcare,r,4.0,5.0,7.0,7.0,5.0,7.0,neither easy nor difficult,better salary,female,35,Brazil,bachelors,hispanic or latino
+6/10/2022,22:48,0:04:01,student/looking/none,yes,20.0,automobile industry,python,2.0,2.0,3.0,3.0,2.0,3.0,difficult,good work/life balance,male,22,India,bachelors,asian or asian american
+6/10/2022,22:53,0:02:40,data analyst,yes,20.0,tech,python,5.0,10.0,5.0,6.0,6.0,8.0,very difficult,better salary,male,33,India,bachelors,asian or asian american
+6/10/2022,22:54,0:00:59,data engineer,no,20.0,real estate,python,1.0,7.0,7.0,7.0,1.0,2.0,very easy,better salary,male,22,United states,bachelors,white or caucasian
+6/10/2022,22:56,0:03:27,data analyst,yes,95.5,distribution,r,7.0,8.0,8.0,7.0,5.0,9.0,neither easy nor difficult,remote work,male,35,United states,bachelors,white or caucasian
+6/10/2022,23:03,0:02:55,data analyst,yes,75.5,agriculture,sql,8.0,5.0,6.0,4.0,4.0,8.0,easy,good work/life balance,female,37,United states,masters,white or caucasian
+6/10/2022,23:18,0:02:12,data analyst,yes,75.5,healthcare,python,10.0,10.0,10.0,7.0,10.0,10.0,neither easy nor difficult,better salary,male,36,United states,masters,white or caucasian
+6/10/2022,23:31,0:02:29,data scientist,yes,95.5,fmcg,python,6.0,5.0,8.0,8.0,7.0,9.0,easy,good work/life balance,male,26,India,bachelors,hispanic or latino
+6/10/2022,23:35,0:05:15,data analyst,yes,20.0,market research,r,3.0,2.0,6.0,5.0,5.0,6.0,neither easy nor difficult,good culture,female,25,South korea,bachelors,asian or asian american
+6/10/2022,23:36,0:02:55,data analyst,yes,53.0,ngo - legislation ,r,4.0,6.0,6.0,5.0,5.0,6.0,neither easy nor difficult,remote work,female,34,United states,high school,white or caucasian
+6/10/2022,23:37,0:02:58,data analyst,yes,20.0,culinary,python,4.0,8.0,8.0,8.0,7.0,8.0,difficult,remote work,male,33,Chile,bachelors,hispanic or latino
+6/10/2022,23:49,0:02:00,student/looking/none,no,53.0,retail,python,0.0,4.0,0.0,1.0,4.0,2.0,very difficult,good work/life balance,male,37,United states,bachelors,white or caucasian
+6/10/2022,23:51,0:01:27,data analyst,no,75.5,marketing,python,5.0,5.0,7.0,6.0,4.0,6.0,very easy,better salary,female,54,United states,high school,white or caucasian
+6/11/2022,0:26,0:01:49,data analyst,no,53.0,education,r,4.0,7.0,7.0,7.0,2.0,7.0,neither easy nor difficult,better salary,female,27,United states,masters,hispanic or latino
+6/11/2022,0:26,0:02:20,database developer,yes,20.0,telecommunication,sql,2.0,3.0,6.0,6.0,3.0,5.0,difficult,better salary,male,24,United kingdom,bachelors,white or caucasian
+6/11/2022,0:46,0:01:41,data analyst,yes,20.0,finance,python,5.0,5.0,5.0,5.0,5.0,10.0,neither easy nor difficult,better salary,male,24,Egypt,bachelors,white or caucasian
+6/11/2022,1:02,0:01:29,consultant,yes,20.0,consulting,python,3.0,4.0,5.0,3.0,2.0,3.0,neither easy nor difficult,better salary,male,27,Panama,bachelors,white or caucasian
+6/11/2022,1:04,0:01:37,student/looking/none,no,20.0,none,python,0.0,0.0,0.0,0.0,0.0,0.0,very difficult,remote work,male,25,Indonesia,bachelors,asian or asian american
+6/11/2022,1:14,0:02:47,data analyst,yes,20.0,tech,python,1.0,7.0,7.0,7.0,7.0,1.0,difficult,better salary,female,28,United kingdom,masters,black or african american
+6/11/2022,1:16,0:01:23,business intelligence developer,no,53.0,education,python,3.0,6.0,5.0,5.0,3.0,4.0,easy,remote work,male,21,United states,bachelors,asian or asian american
+6/11/2022,1:19,0:01:15,data analyst,yes,95.5,healthcare,other,4.0,4.0,5.0,5.0,4.0,6.0,difficult,good work/life balance,female,28,United states,bachelors,white or caucasian
+6/11/2022,1:24,0:03:20,data analyst,yes,20.0,tech,python,3.0,5.0,5.0,5.0,5.0,2.0,neither easy nor difficult,remote work,male,30,Ghana,masters,black or african american
+6/11/2022,1:36,0:02:39,data analyst,no,20.0,education,python,0.0,10.0,0.0,9.0,5.0,10.0,easy,remote work,male,24,Angola,associates,black or african american
+6/11/2022,1:51,0:02:01,data analyst,yes,20.0,healthcare,python,7.0,4.0,6.0,5.0,6.0,6.0,difficult,remote work,male,26,India,bachelors,indian
+6/11/2022,3:04,0:04:03,student/looking/none,no,20.0,customer support ,python,5.0,6.0,6.0,5.0,1.0,3.0,neither easy nor difficult,good work/life balance,female,92,India,masters,asian or asian american
+6/11/2022,3:05,0:02:33,data analyst,yes,20.0,healthcare,python,1.0,8.0,5.0,1.0,7.0,8.0,neither easy nor difficult,remote work,male,28,Nigeria,bachelors,black or african american
+6/11/2022,3:07,0:01:34,student/looking/none,yes,20.0,education,python,0.0,1.0,2.0,2.0,1.0,1.0,neither easy nor difficult,better salary,female,24,India,masters,asian or asian american
+6/11/2022,3:13,0:03:39,informatics specialist,no,53.0,healthcare,python,7.0,10.0,10.0,10.0,5.0,10.0,easy,better salary,male,25,United states,masters,asian or asian american
+6/11/2022,3:18,0:04:04,data analyst,yes,53.0,finance,python,4.0,5.0,5.0,5.0,6.0,6.0,neither easy nor difficult,good work/life balance,male,42,United kingdom,masters,black or african american
+6/11/2022,3:40,0:01:05,data analyst,yes,20.0,tech,python,2.0,3.0,3.0,3.0,3.0,3.0,difficult,better salary,male,21,India,bachelors,asian or asian american
+6/11/2022,3:47,0:02:36,data analyst,no,75.5,healthcare,python,7.0,8.0,9.0,7.0,7.0,6.0,easy,better salary,male,24,United states,bachelors,white or caucasian
+6/11/2022,3:57,0:02:32,data analyst,yes,53.0,healthcare,python,4.0,7.0,6.0,6.0,6.0,7.0,neither easy nor difficult,better salary,female,26,United states,bachelors,white or caucasian
+6/11/2022,4:01,0:01:16,data analyst,yes,20.0,cosmetics ,python,2.0,8.0,8.0,9.0,8.0,10.0,difficult,better salary,male,30,United kingdom,bachelors,white or caucasian
+6/11/2022,4:13,0:05:51,data engineer,yes,95.5,digital mar,sql,6.0,10.0,10.0,10.0,10.0,10.0,neither easy nor difficult,good culture,male,27,United states,bachelors,black or african american
+6/11/2022,4:24,0:02:01,data engineer,yes,20.0,tech,python,0.0,4.0,1.0,0.0,1.0,3.0,easy,better salary,male,28,India,bachelors,asian or asian american
+6/11/2022,5:02,0:02:27,data analyst,no,75.5,real estate,sql,6.0,8.0,7.0,7.0,5.0,6.0,easy,better salary,female,29,United kingdom,bachelors,white or caucasian
+6/11/2022,5:12,0:02:43,data analyst,no,20.0,home maker ,python,0.0,0.0,0.0,0.0,0.0,0.0,easy,good work/life balance,female,26,India,bachelors,asian or asian american
+6/11/2022,5:25,0:02:47,data engineer,yes,20.0,finance,python,3.0,3.0,3.0,3.0,3.0,4.0,neither easy nor difficult,remote work,male,29,Nigeria,bachelors,black or african american
+6/11/2022,5:28,0:01:51,business analys,no,75.5,finance,na,3.0,5.0,7.0,2.0,5.0,7.0,easy,remote work,male,60,United kingdom,masters,white or caucasian
+6/11/2022,6:11,0:01:55,data analyst,yes,20.0,healthcare,python,5.0,8.0,8.0,5.0,5.0,6.0,neither easy nor difficult,better salary,male,25,Nigeria,bachelors,black or african american
+6/11/2022,6:13,0:03:13,finance analyst,no,20.0,construction,r,0.0,0.0,1.0,3.0,2.0,1.0,neither easy nor difficult,good work/life balance,female,37,Nigeria,masters,african 
+6/11/2022,6:26,0:01:31,data analyst,yes,75.5,finance,python,6.0,8.0,3.0,4.0,5.0,1.0,neither easy nor difficult,better salary,female,30,Canada,bachelors,asian or asian american
+6/11/2022,7:00,0:04:48,data analyst,yes,20.0,healthcare,python,0.0,1.0,2.0,1.0,0.0,3.0,neither easy nor difficult,better salary,female,27,Nigeria,masters,black or african american
+6/11/2022,7:09,0:01:04,data scientist,yes,225.0,tech,r,5.0,6.0,5.0,5.0,6.0,6.0,difficult,in office work,male,31,United states,phd,white or caucasian
+6/11/2022,7:15,0:02:11,student/looking/none,no,20.0,i am student. ,r,10.0,10.0,10.0,10.0,10.0,10.0,neither easy nor difficult,good work/life balance,male,24,United kingdom,masters,asian or asian american
+6/11/2022,7:28,0:03:11,data analyst,no,20.0,finance,matlab,0.0,6.0,6.0,6.0,5.0,6.0,neither easy nor difficult,better salary,female,20,United states,bachelors,black or african american
+6/11/2022,7:36,0:02:30,web developer,no,20.0,tech,r,2.0,1.0,4.0,1.0,1.0,1.0,easy,good work/life balance,male,24,India,bachelors,asian or asian american
+6/11/2022,7:37,0:01:32,student/looking/none,yes,20.0,manufacturing,r,3.0,6.0,7.0,6.0,4.0,4.0,neither easy nor difficult,good work/life balance,male,24,Romania,bachelors,white or caucasian
+6/11/2022,7:38,0:01:30,student/looking/none,no,20.0,"unemployed, trying to switch career",r,0.0,1.0,3.0,0.0,0.0,0.0,neither easy nor difficult,good work/life balance,male,41,Spain,bachelors,hispanic or latino
+6/11/2022,7:40,0:02:12,data analyst,yes,95.5,tech,r,8.0,8.0,8.0,8.0,8.0,8.0,difficult,better salary,male,41,United states,bachelors,white or caucasian
+6/11/2022,8:07,0:01:52,manager,no,187.5,retail,python,9.0,8.0,9.0,10.0,8.0,10.0,neither easy nor difficult,good culture,male,43,United states,bachelors,white or caucasian
+6/11/2022,8:09,0:01:53,data analyst,no,75.5,healthcare,python,7.0,7.0,8.0,4.0,6.0,9.0,easy,remote work,female,38,United states,bachelors,white or caucasian
+6/11/2022,8:14,0:01:53,data analyst,yes,20.0,retail,python,5.0,5.0,5.0,5.0,5.0,6.0,neither easy nor difficult,better salary,female,28,Philippines,bachelors,asian or asian american
+6/11/2022,8:18,0:01:30,data analyst,yes,95.5,healthcare,python,10.0,8.0,6.0,10.0,7.0,5.0,neither easy nor difficult,good culture,female,31,Germany,bachelors,hispanic or latino
+6/11/2022,8:36,0:01:31,data analyst,yes,95.5,government,sas,8.0,7.0,8.0,6.0,7.0,8.0,difficult,good work/life balance,female,28,United states,masters,white or caucasian
+6/11/2022,8:38,0:00:55,data analyst,no,53.0,healthcare,c/c++,7.0,8.0,9.0,9.0,4.0,9.0,easy,remote work,male,23,United states,masters,asian or asian american
+6/11/2022,8:40,0:01:47,data analyst,no,53.0,utilities ,python,5.0,5.0,4.0,5.0,6.0,6.0,neither easy nor difficult,better salary,male,25,United kingdom,bachelors,black or african american
+6/11/2022,8:40,0:01:22,junior software engineer,no,20.0,tech,r,2.0,5.0,2.0,8.0,9.0,10.0,difficult,remote work,male,26,Poland,masters,white or caucasian
+6/11/2022,8:42,0:00:47,data scientist,yes,137.5,finance,python,9.0,4.0,8.0,7.0,5.0,6.0,difficult,good work/life balance,male,35,United states,bachelors,white or caucasian
+6/11/2022,8:52,0:01:43,data analyst,yes,115.5,retail,r,8.0,9.0,9.0,7.0,8.0,8.0,neither easy nor difficult,remote work,male,30,Denmark,masters,white or caucasian
+6/11/2022,9:02,0:02:06,data analyst,yes,20.0,telecommunication,python,0.0,8.0,5.0,5.0,2.0,2.0,easy,better salary,male,28,Panama,bachelors,hispanic or latino
+6/11/2022,9:17,0:02:01,student/looking/none,no,20.0,tech,python,0.0,2.0,3.0,3.0,2.0,3.0,easy,good work/life balance,female,24,Nigeria,bachelors,black or african american
+6/11/2022,9:40,0:04:32,data analyst,yes,53.0,tech,python,8.0,10.0,7.0,5.0,6.0,5.0,neither easy nor difficult,good culture,female,34,United states,bachelors,white or caucasian
+6/11/2022,9:52,0:01:52,data analyst,yes,53.0,tech,python,3.0,5.0,4.0,5.0,3.0,6.0,neither easy nor difficult,good work/life balance,female,31,Germany,masters,white or caucasian
+6/11/2022,9:53,0:01:06,data analyst,yes,20.0,tech,python,0.0,0.0,0.0,0.0,0.0,0.0,difficult,good work/life balance,male,30,United kingdom,masters,asian or asian american
+6/11/2022,9:53,0:01:28,data engineer,yes,95.5,logistics,javascript,4.0,4.0,1.0,6.0,1.0,5.0,difficult,better salary,male,40,United kingdom,bachelors,white or caucasian
+6/11/2022,10:00,0:02:02,data analyst,no,53.0,consulting,r,4.0,10.0,10.0,10.0,8.0,6.0,very difficult,better salary,male,26,United states,bachelors,hispanic or latino
+6/11/2022,10:16,0:01:00,data analyst,no,137.5,healthcare,r,9.0,9.0,6.0,6.0,6.0,7.0,neither easy nor difficult,good culture,male,25,United states,bachelors,white or caucasian
+6/11/2022,10:50,0:03:12,data analyst,no,53.0,finance,r,7.0,9.0,8.0,6.0,6.0,9.0,neither easy nor difficult,good culture,male,26,United states,masters,black or african american
+6/11/2022,11:08,0:01:43,data scientist,no,20.0,finance,python,7.0,7.0,8.0,6.0,6.0,4.0,neither easy nor difficult,good work/life balance,male,26,India,masters,indian
+6/11/2022,11:11,0:02:44,researchers,yes,20.0,finance,python,3.0,2.0,4.0,2.0,2.0,3.0,difficult,better salary,male,23,India,masters,asian or asian american
+6/11/2022,11:18,0:00:56,data engineer,yes,115.5,tech,python,4.0,4.0,4.0,4.0,5.0,6.0,neither easy nor difficult,good work/life balance,male,25,India,masters,asian or asian american
+6/11/2022,11:19,0:01:11,data analyst,yes,53.0,healthcare,r,4.0,5.0,6.0,6.0,5.0,6.0,neither easy nor difficult,better salary,female,33,United states,high school,white or caucasian
+6/11/2022,11:21,0:02:02,senior business analyst,no,20.0,ecommerce,sql,6.0,3.0,3.0,6.0,6.0,4.0,very easy,learning new skills,male,33,India,bachelors,asian or asian american
+6/11/2022,11:37,0:01:13,data analyst,yes,95.5,healthcare,r,7.0,8.0,7.0,8.0,3.0,4.0,easy,good culture,male,27,United states,bachelors,white or caucasian
+6/11/2022,12:12,0:01:59,data analyst,yes,115.5,tech,python,9.0,9.0,9.0,8.0,8.0,9.0,difficult,remote work,female,28,United states,masters,hispanic or latino
+6/11/2022,12:13,0:03:18,data analyst,yes,75.5,tech,python,5.0,6.0,7.0,6.0,6.0,7.0,very easy,better salary,male,32,United states,bachelors,hispanic or latino
+6/11/2022,12:36,0:01:24,data analyst,yes,20.0,tech,python,2.0,6.0,3.0,6.0,6.0,7.0,neither easy nor difficult,better salary,male,35,India,masters,asian or asian american
+6/11/2022,12:40,0:01:49,data analyst,yes,95.5,real estate,python,8.0,9.0,10.0,10.0,9.0,10.0,neither easy nor difficult,good culture,male,34,United states,masters,hispanic or latino
+6/11/2022,12:42,0:01:39,data analyst,no,53.0,electronics,python,9.0,8.0,3.0,5.0,2.0,4.0,easy,better salary,male,27,Germany,masters,white or caucasian
+6/11/2022,12:50,0:02:30,data coordinator,yes,75.5,education,r,4.0,5.0,5.0,3.0,3.0,4.0,easy,good culture,female,30,United states,masters,white or caucasian
+6/11/2022,13:16,0:02:06,data analyst,no,75.5,logistics and warehousing,python,8.0,9.0,9.0,9.0,9.0,10.0,neither easy nor difficult,better salary,male,34,United states,masters,white or caucasian
+6/11/2022,13:17,0:02:20,data analyst intern,no,53.0,utilities,python,3.0,10.0,6.0,5.0,7.0,8.0,neither easy nor difficult,remote work,female,22,United states,bachelors,white or caucasian
+6/11/2022,13:25,0:01:02,data analyst,yes,20.0,finance,python,2.0,2.0,5.0,5.0,2.0,3.0,very difficult,good work/life balance,female,33,India,masters,asian or asian american
+6/11/2022,13:27,0:01:53,data analyst,no,20.0,finance,python,8.0,9.0,9.0,9.0,9.0,9.0,neither easy nor difficult,better salary,female,26,India,masters,asian or asian american
+6/11/2022,13:30,0:01:36,data engineer,yes,20.0,tech,python,0.0,5.0,8.0,6.0,5.0,7.0,neither easy nor difficult,better salary,male,28,Argentina,bachelors,hispanic or latino
+6/11/2022,13:56,0:05:32,driver,no,20.0,public transport,python,2.0,2.0,7.0,4.0,8.0,1.0,difficult,remote work,male,42,United kingdom,bachelors,bla
+6/11/2022,13:59,0:02:06,data analyst,no,20.0,urbanism,r,4.0,10.0,2.0,3.0,2.0,3.0,neither easy nor difficult,better salary,male,30,Morocco,masters,moroccan
+6/11/2022,14:07,0:01:22,data scientist,yes,115.5,tech,sql,10.0,9.0,8.0,8.0,9.0,10.0,difficult,better salary,male,25,United states,associates,white or caucasian
+6/11/2022,14:22,0:01:00,data analyst,yes,53.0,construction,python,4.0,6.0,6.0,6.0,5.0,7.0,easy,better salary,male,32,United states,bachelors,black or african american
+6/11/2022,14:47,0:01:56,data analyst,no,20.0,tech,python,3.0,4.0,5.0,5.0,6.0,6.0,neither easy nor difficult,better salary,male,31,Germany,masters,asian or asian american
+6/11/2022,14:54,10:34:43,data analyst,yes,187.5,education,python,8.0,7.0,5.0,4.0,7.0,7.0,easy,remote work,male,30,United arab emirates,high school,white or caucasian
+6/11/2022,14:57,0:02:26,student/looking/none,yes,20.0,reta,python,0.0,6.0,6.0,2.0,0.0,3.0,neither easy nor difficult,better salary,male,23,Canada,bachelors,asian or asian american
+6/11/2022,16:11,0:02:17,data manager,no,75.5,education,r,7.0,7.0,6.0,7.0,6.0,6.0,easy,remote work,female,31,United kingdom,bachelors,white or caucasian
+6/11/2022,16:42,0:02:40,data analyst,no,53.0,avia,python,7.0,5.0,9.0,9.0,4.0,9.0,neither easy nor difficult,good work/life balance,female,29,Finland,masters,black or african american
+6/11/2022,16:52,0:02:38,data analyst,yes,20.0,tech,python,5.0,4.0,4.0,5.0,7.0,10.0,neither easy nor difficult,remote work,male,24,Nigeria,bachelors,african
+6/11/2022,17:05,0:02:38,gis analyst,no,53.0,state,python,2.0,7.0,6.0,5.0,6.0,4.0,neither easy nor difficult,better salary,male,36,United states,masters,asian or asian american
+6/11/2022,17:21,0:02:29,data analyst,yes,53.0,real estate,r,4.0,6.0,6.0,6.0,6.0,6.0,difficult,remote work,female,32,United states,masters,white or caucasian
+6/11/2022,17:53,0:03:55,business analyst,yes,95.5,healthcare,python,8.0,9.0,7.0,7.0,7.0,9.0,difficult,remote work,female,36,United states,bachelors,white or caucasian
+6/11/2022,18:05,0:01:53,data engineer,no,115.5,healthcare,sql,8.0,6.0,5.0,2.0,3.0,2.0,easy,better salary,male,30,United states,bachelors,white or caucasian
+6/11/2022,18:30,0:05:09,student/looking/none,yes,20.0,looking for job,r,0.0,2.0,2.0,3.0,3.0,4.0,neither easy nor difficult,good work/life balance,male,42,Sudan,masters,black or african american
+6/11/2022,18:43,0:03:26,data analyst,yes,95.5,healthcare,dax,6.0,6.0,6.0,5.0,4.0,4.0,easy,remote work,male,53,Australia,phd,white or caucasian
+6/11/2022,18:57,0:03:17,data analyst,no,20.0,finance,python,1.0,7.0,4.0,10.0,10.0,10.0,neither easy nor difficult,better salary,male,25,Kenya,high school,indian 
+6/11/2022,19:06,0:02:21,data analyst,no,20.0,healthcare,python,1.0,5.0,4.0,6.0,5.0,6.0,neither easy nor difficult,better salary,male,23,Lebanon,bachelors,white or caucasian
+6/11/2022,19:30,0:03:25,data analyst,yes,20.0,agriculture,python,2.0,1.0,3.0,3.0,3.0,4.0,difficult,better salary,male,36,Saudi arabia,bachelors,arab 
+6/11/2022,19:37,0:01:23,data analyst,no,95.5,finance,python,3.0,6.0,4.0,2.0,2.0,3.0,difficult,challenging / exciting problems,male,25,United states,masters,hispanic or latino
+6/11/2022,20:53,0:03:19,data engineer,yes,53.0,tech,python,4.0,4.0,3.0,4.0,4.0,5.0,neither easy nor difficult,remote work,female,35,United kingdom,masters,asian or asian american
+6/11/2022,21:05,0:01:19,data analyst,yes,75.5,sensors,r,3.0,4.0,4.0,5.0,4.0,4.0,very easy,better salary,male,26,United states,bachelors,white or caucasian
+6/11/2022,21:08,0:01:07,student/looking/none,no,20.0,tech,python,2.0,7.0,9.0,7.0,3.0,3.0,difficult,remote work,male,22,United states,bachelors,white or caucasian
+6/11/2022,22:13,0:01:43,data scientist,yes,95.5,automotive,python,6.0,8.0,10.0,9.0,6.0,8.0,neither easy nor difficult,better salary,male,30,Canada,masters,asian or asian american
+6/11/2022,22:27,0:02:37,data analyst,yes,75.5,supply chain,python,2.0,8.0,6.0,1.0,8.0,10.0,neither easy nor difficult,better salary,male,36,United states,masters,white or caucasian
+6/11/2022,22:43,0:02:25,data analyst,yes,75.5,healthcare,r,4.0,4.0,5.0,5.0,4.0,6.0,neither easy nor difficult,all of the above,female,30,United states,masters,white or caucasian
+6/11/2022,23:04,0:01:35,data scientist,yes,115.5,finance,python,9.0,8.0,10.0,10.0,10.0,10.0,difficult,remote work,male,29,United states,bachelors,asian or asian american
+6/11/2022,23:18,0:04:47,business intelligence analyst,yes,75.5,professional services,r,8.0,10.0,10.0,7.0,8.0,5.0,difficult,data maturity,male,30,United states,masters,white or caucasian
+6/11/2022,23:39,0:01:03,data engineer,no,53.0,finance,python,0.0,6.0,6.0,6.0,6.0,6.0,very easy,better salary,male,24,United states,bachelors,black or african american
+6/12/2022,0:29,0:01:37,data engineer,yes,225.0,tech,sql,3.0,3.0,4.0,4.0,3.0,5.0,neither easy nor difficult,better salary,male,33,United states,bachelors,asian or asian american
+6/12/2022,0:52,0:01:37,data analyst,no,115.5,food and bece,python,10.0,10.0,10.0,10.0,10.0,6.0,easy,better salary,female,42,United states,bachelors,white or caucasian
+6/12/2022,0:58,0:01:54,data analyst,yes,53.0,healthcare,python,1.0,10.0,10.0,8.0,10.0,3.0,neither easy nor difficult,better salary,female,36,United states,bachelors,white or caucasian
+6/12/2022,1:08,0:01:43,data analyst,yes,53.0,research (non-clincial),python,2.0,3.0,7.0,6.0,5.0,6.0,neither easy nor difficult,better salary,male,27,United states,bachelors,white or caucasian
+6/12/2022,2:43,0:01:35,data analyst,no,20.0,tech,python,8.0,7.0,8.0,7.0,7.0,9.0,easy,opportunity to learn,female,21,India,bachelors,asian or asian american
+6/12/2022,2:52,0:01:31,data analyst,yes,53.0,healthcare,python,8.0,5.0,8.0,8.0,5.0,10.0,difficult,remote work,female,34,Israel,masters,white or caucasian
+6/12/2022,3:03,0:01:20,student/looking/none,no,20.0,education,python,2.0,5.0,5.0,5.0,2.0,4.0,difficult,better salary,male,27,Netherlands,bachelors,white or caucasian
+6/12/2022,3:45,0:01:58,bi consultant,yes,20.0,tech,python,7.0,8.0,8.0,8.0,8.0,7.0,neither easy nor difficult,good culture,male,27,France,masters,white or caucasian
+6/12/2022,3:59,0:03:34,student/looking/none,no,20.0,education,r,1.0,1.0,2.0,1.0,0.0,3.0,neither easy nor difficult,good work/life balance,male,30,Kenya,associates,african 
+6/12/2022,4:00,0:01:29,data analyst,yes,75.5,gover,sql,2.0,0.0,0.0,0.0,0.0,2.0,difficult,better salary,female,33,United states,bachelors,white or caucasian
+6/12/2022,4:17,0:01:57,data analyst,yes,95.5,finance,python,3.0,3.0,4.0,4.0,4.0,4.0,difficult,good culture,male,47,India,masters,american indian or alaska native
+6/12/2022,4:31,0:01:34,data analyst,yes,75.5,retail,sql,4.0,5.0,4.0,5.0,4.0,4.0,difficult,better work & remote salary,male,27,United states,masters,asian or asian american
+6/12/2022,4:52,0:03:19,data analyst,no,20.0,healthcare,python,6.0,7.0,8.0,7.0,6.0,7.0,neither easy nor difficult,better salary,male,26,India,bachelors,asian or asian american
+6/12/2022,6:23,0:01:41,data analyst,no,20.0,finance,python,2.0,3.0,2.0,5.0,5.0,6.0,neither easy nor difficult,remote work,female,35,India,masters,asian or asian american
+6/12/2022,6:52,0:01:11,data analyst,yes,95.5,education,python,0.0,1.0,1.0,0.0,0.0,0.0,neither easy nor difficult,good culture,male,31,United states,masters,hispanic or latino
+6/12/2022,7:16,0:03:44,data analyst,yes,20.0,education,python,2.0,1.0,2.0,3.0,4.0,3.0,difficult,remote work,male,25,Zambia,bachelors,black or african american
+6/12/2022,7:18,0:02:11,data engineer,yes,75.5,real estate,python,3.0,10.0,8.0,8.0,10.0,10.0,easy,remote work,male,27,United states,bachelors,white or caucasian
+6/12/2022,7:51,0:01:57,data analyst,yes,53.0,tech,python,5.0,8.0,3.0,2.0,4.0,8.0,neither easy nor difficult,good culture,male,32,Netherlands,bachelors,white or caucasian
+6/12/2022,8:25,0:02:42,student/looking/none,yes,20.0,real estate,python,0.0,3.0,3.0,3.0,3.0,6.0,difficult,good work/life balance,male,47,Portugal,bachelors,white or caucasian
+6/12/2022,9:14,0:01:31,database administrator,no,75.5,finance,python,0.0,10.0,10.0,5.0,0.0,0.0,neither easy nor difficult,good work/life balance,female,30,United states,masters,asian or asian american
+6/12/2022,9:30,0:01:52,data analyst,yes,115.5,defense,python,8.0,6.0,6.0,7.0,9.0,10.0,easy,better salary,female,35,United states,masters,black or african american
+6/12/2022,9:36,0:02:16,data analyst,yes,53.0,finance,python,6.0,9.0,5.0,7.0,8.0,9.0,difficult,remote work,male,25,United states,high school,hispanic or latino
+6/12/2022,9:44,0:03:02,data steward,no,75.5,foodservice,python,3.0,6.0,6.0,6.0,6.0,6.0,neither easy nor difficult,better salary,male,27,United states,bachelors,white or caucasian
+6/12/2022,9:44,0:01:20,data analyst,yes,53.0,healthcare,r,1.0,5.0,3.0,3.0,6.0,5.0,difficult,remote work,female,27,United states,masters,black or african american
+6/12/2022,10:07,0:01:52,student/looking/none,no,20.0,data insights company,python,1.0,8.0,8.0,1.0,3.0,7.0,very easy,better salary,female,23,India,masters,asian or asian american
+6/12/2022,10:30,0:02:10,data scientist,no,53.0,manuf,python,9.0,10.0,10.0,10.0,10.0,10.0,neither easy nor difficult,good culture,male,18,United states,bachelors,white or caucasian
+6/12/2022,11:43,0:01:42,data analyst,yes,20.0,healthcare,python,8.0,10.0,9.0,6.0,8.0,9.0,easy,remote work,female,28,Costa rica,masters,hispanic or latino
+6/12/2022,11:44,0:01:20,analytics manager,yes,137.5,healthcare,python,7.0,6.0,8.0,8.0,8.0,7.0,easy,remote work,male,28,United states,bachelors,white or caucasian
+6/12/2022,12:12,0:01:35,student/looking/none,no,20.0,not currently working,python,0.0,0.0,0.0,0.0,0.0,0.0,easy,good work/life balance,female,26,United states,bachelors,american indian or alaska native
+6/12/2022,12:36,0:01:57,student/looking/none,no,20.0,education,python,0.0,0.0,3.0,0.0,0.0,8.0,difficult,better salary,male,27,Ghana,bachelors,black or african american
+6/12/2022,12:43,0:02:48,data analyst,no,53.0,tech,python,9.0,7.0,9.0,10.0,10.0,10.0,neither easy nor difficult,good work/life balance,female,22,India,masters,asian or asian american
+6/12/2022,12:47,0:01:56,data analyst,yes,20.0,tech,r,0.0,8.0,7.0,6.0,3.0,9.0,very difficult,better salary,male,27,United states,high school,white or caucasian
+6/12/2022,13:13,0:01:43,data engineer,yes,20.0,food and beverages,python,5.0,7.0,6.0,8.0,7.0,7.0,neither easy nor difficult,good work/life balance,male,28,India,bachelors,asian or asian american
+6/12/2022,13:37,0:01:46,data analyst,yes,20.0,tech,python,3.0,2.0,4.0,3.0,3.0,3.0,neither easy nor difficult,better salary,male,25,Nigeria,high school,black or african american
+6/12/2022,14:03,0:01:52,data analyst,no,20.0,healthcare,python,2.0,6.0,6.0,7.0,7.0,9.0,difficult,better salary,male,32,United kingdom,bachelors,hispanic or latino
+6/12/2022,14:33,0:10:34,student/looking/none,yes,20.0,finance,sql,7.0,9.0,10.0,10.0,3.0,4.0,easy,remote work,male,33,Uruguay,bachelors,white or caucasian
+6/12/2022,14:43,0:02:53,data analyst,no,53.0,government administration,python,5.0,6.0,5.0,2.0,3.0,3.0,easy,remote work,male,23,Canada,masters,black or african american
+6/12/2022,15:09,0:01:49,student/looking/none,yes,20.0,finance,r,4.0,5.0,4.0,4.0,5.0,6.0,neither easy nor difficult,remote work,female,40,Nigeria,bachelors,black or african american
+6/12/2022,15:45,0:02:39,data analyst,yes,53.0,outsourcing ,python,7.0,9.0,9.0,9.0,7.0,9.0,easy,better salary,female,28,United kingdom,bachelors,asian or asian american
+6/12/2022,16:23,0:03:50,data analyst,no,20.0,real estate,r,3.0,7.0,8.0,6.0,6.0,9.0,difficult,remote work,male,26,Nigeria,high school,black or african american
+6/12/2022,16:28,0:03:59,technical consulta,yes,20.0,tech,python,3.0,5.0,5.0,4.0,3.0,2.0,difficult,better salary,female,24,India,bachelors,asian or asian american
+6/12/2022,17:01,0:02:04,"software engineer, ai",yes,95.5,finance,python,7.0,5.0,5.0,8.0,8.0,8.0,neither easy nor difficult,remote work,female,40,United states,associates,bi-racial people should be able to check 2 options in 2022. 
+6/12/2022,17:09,0:01:46,data analyst,yes,75.5,consulting,python,8.0,10.0,10.0,10.0,7.0,9.0,neither easy nor difficult,better salary,male,26,United states,bachelors,black or african american
+6/12/2022,17:42,0:02:29,data scientist,yes,53.0,cobsukting,python,8.0,8.0,10.0,10.0,10.0,10.0,easy,good culture,female,44,United kingdom,bachelors,white or caucasian
+6/12/2022,18:14,0:01:58,systems configuration,yes,75.5,insurance ,python,7.0,9.0,8.0,8.0,6.0,6.0,neither easy nor difficult,better salary,male,36,United states,masters,white or caucasian
+6/12/2022,19:30,0:01:37,business analyst,yes,20.0,workforce ,python,1.0,5.0,10.0,10.0,8.0,10.0,neither easy nor difficult,better salary,male,30,Costa rica,bachelors,hispanic or latino
+6/12/2022,21:13,0:04:36,sales & marketing,yes,20.0,general contractor,python,3.0,3.0,3.0,2.0,2.0,2.0,very easy,good work/life balance,male,48,Indonesia,masters,melayu
+6/12/2022,22:29,0:03:16,data analyst,yes,53.0,construction,php,1.0,4.0,1.0,2.0,2.0,3.0,easy,better salary,female,30,Canada,masters,asian or asian american
+6/12/2022,23:16,0:04:53,radio frequency engineer,no,20.0,telecommunication,python,3.0,8.0,8.0,5.0,3.0,5.0,difficult,better salary,male,28,India,bachelors,dravidian
+6/12/2022,23:35,0:01:58,support engineer,no,20.0,tech,python,5.0,8.0,7.0,7.0,3.0,2.0,difficult,better salary,male,25,India,bachelors,indian
+6/13/2022,0:26,0:01:30,analytics engineer,no,115.5,tech,sql,6.0,5.0,4.0,4.0,3.0,4.0,easy,better salary,male,24,United states,masters,american indian or alaska native
+6/13/2022,0:58,0:02:51,data analyst,yes,53.0,nonprofit,python,5.0,10.0,7.0,7.0,4.0,8.0,easy,better salary,male,31,United states,bachelors,black or african american
+6/13/2022,1:50,0:01:47,data engineer,no,20.0,real estate,python,3.0,3.0,8.0,9.0,5.0,3.0,easy,better salary,male,23,United kingdom,bachelors,arab
+6/13/2022,1:59,0:03:06,data analyst,no,53.0,police / emergency services,dax,1.0,4.0,4.0,1.0,1.0,4.0,easy,good culture,female,48,United kingdom,masters,white or caucasian
+6/13/2022,2:40,0:01:00,data analyst,yes,75.5,healthcare,python,6.0,9.0,8.0,8.0,8.0,7.0,neither easy nor difficult,better salary,male,28,United states,bachelors,black or african american
+6/13/2022,3:08,0:02:04,data analyst,yes,53.0,retail,python,5.0,7.0,7.0,7.0,7.0,7.0,difficult,better salary,male,32,United kingdom,masters,hispanic or latino
+6/13/2022,3:40,0:04:45,data scientist,yes,53.0,finance,python,5.0,7.0,7.0,4.0,5.0,7.0,neither easy nor difficult,better salary,male,30,China,bachelors,asian or asian american
+6/13/2022,5:25,0:03:29,data analyst,yes,20.0,insurance,python,5.0,5.0,7.0,7.0,7.0,8.0,neither easy nor difficult,good work/life balance,male,32,Tunisia,masters,white or caucasian
+6/13/2022,5:33,0:01:50,data analyst,yes,20.0,tech,python,0.0,3.0,0.0,1.0,0.0,0.0,easy,good culture,female,30,Sri lanka,masters,asian
+6/13/2022,6:03,0:02:49,data analyst,yes,20.0,manufacturing,python,4.0,2.0,5.0,2.0,4.0,4.0,neither easy nor difficult,good work/life balance,female,35,Spain,masters,white or caucasian
+6/13/2022,9:23,0:01:09,account manager,yes,75.5,consumer retail,python,6.0,6.0,7.0,7.0,6.0,7.0,easy,good culture,female,30,United states,masters,asian or asian american
+6/13/2022,9:24,0:01:26,data analyst,yes,53.0,tech,python,3.0,3.0,5.0,4.0,4.0,4.0,neither easy nor difficult,better salary,male,48,United states,bachelors,white or caucasian
+6/13/2022,9:32,0:01:26,data analyst,yes,75.5,finance,sql,5.0,8.0,5.0,5.0,5.0,4.0,easy,remote work,male,32,Canada,masters,asian or asian american
+6/13/2022,10:30,0:01:12,incident manager,yes,53.0,telecommunication,python,4.0,5.0,4.0,5.0,5.0,6.0,difficult,good work/life balance,male,27,India,bachelors,american indian or alaska native
+6/13/2022,10:48,0:01:34,product owner,no,53.0,tech,python,7.0,9.0,5.0,6.0,6.0,7.0,easy,the work,male,27,United kingdom,masters,white or caucasian
+6/13/2022,11:30,0:02:45,student/looking/none,no,20.0,finance,python,8.0,7.0,6.0,7.0,8.0,10.0,neither easy nor difficult,remote work,male,24,Kenya,bachelors,african
+6/13/2022,11:40,0:00:43,data scientist,yes,187.5,finance,r,9.0,9.0,9.0,9.0,8.0,8.0,difficult,better salary,male,42,United states,phd,asian or asian american
+6/13/2022,11:59,0:02:58,business analyst,no,53.0,tech,python,8.0,6.0,6.0,8.0,7.0,8.0,neither easy nor difficult,better salary,male,24,United states,bachelors,hispanic or latino
+6/13/2022,12:00,0:01:08,database developer,yes,20.0,tech,python,5.0,9.0,7.0,7.0,6.0,9.0,easy,better salary,male,23,India,bachelors,asian or asian american
+6/13/2022,12:25,0:01:21,data analyst,no,20.0,tech,python,7.0,9.0,8.0,8.0,4.0,2.0,neither easy nor difficult,better salary,male,26,India,bachelors,asian or asian american
+6/13/2022,12:57,0:02:01,data analyst,no,53.0,home and living,sql,5.0,6.0,6.0,2.0,2.0,3.0,neither easy nor difficult,better salary,male,32,Germany,bachelors,black or african american
+6/13/2022,13:24,0:02:52,presales engineer,no,20.0,telecommunication,python,4.0,3.0,2.0,0.0,0.0,0.0,neither easy nor difficult,good work/life balance,male,35,Argentina,bachelors,white or caucasian
+6/13/2022,13:27,0:01:18,data analyst,yes,115.5,healthcare,python,4.0,3.0,4.0,2.0,2.0,2.0,easy,good work/life balance,male,41,United states,high school,white or caucasian
+6/13/2022,13:52,0:00:59,predictive analyst,no,53.0,education,python,4.0,9.0,8.0,8.0,6.0,7.0,neither easy nor difficult,better salary,male,25,United states,masters,white or caucasian
+6/13/2022,13:56,0:01:04,data analyst,yes,20.0,construction,python,0.0,0.0,0.0,0.0,0.0,0.0,very difficult,better salary,female,28,United states,masters,asian or asian american
+6/13/2022,14:06,0:00:50,data analyst,yes,53.0,agriculture,python,3.0,6.0,5.0,5.0,5.0,6.0,neither easy nor difficult,better salary,male,29,United states,bachelors,white or caucasian
+6/13/2022,14:51,0:01:30,student/looking/none,no,20.0,telecommunication,python,8.0,10.0,6.0,7.0,8.0,8.0,neither easy nor difficult,better salary,male,19,United states,high school,white or caucasian
+6/13/2022,14:59,0:01:25,data analyst,yes,53.0,insurance ,python,5.0,6.0,9.0,6.0,7.0,10.0,neither easy nor difficult,better salary,male,27,India,bachelors,asian or asian american
+6/13/2022,15:25,0:01:33,student/looking/none,yes,20.0,finance,python,8.0,9.0,9.0,7.0,8.0,8.0,neither easy nor difficult,better salary,male,25,,bachelors,white or caucasian
+6/13/2022,16:05,0:01:46,data analyst,yes,53.0,non profit organization,python,6.0,10.0,10.0,10.0,10.0,8.0,difficult,better salary,female,26,Canada,masters,asian or asian american
+6/13/2022,16:22,0:02:42,data analyst,yes,20.0,healthcare,python,3.0,4.0,5.0,5.0,4.0,5.0,difficult,good work/life balance,male,25,Spain,bachelors,white or caucasian
+6/13/2022,17:48,0:00:50,data analyst,yes,20.0,manufacturing,python,6.0,6.0,9.0,9.0,10.0,10.0,neither easy nor difficult,remote work,male,25,Portugal,bachelors,white or caucasian
+6/13/2022,17:56,0:01:57,data analyst,yes,20.0,healthcare,r,2.0,3.0,4.0,3.0,3.0,5.0,neither easy nor difficult,good work/life balance,male,26,Liberia,bachelors,black or african american
+6/13/2022,17:56,0:01:07,data analyst,yes,137.5,education,python,8.0,8.0,7.0,6.0,7.0,9.0,neither easy nor difficult,good culture,male,35,United states,bachelors,white or caucasian
+6/13/2022,18:41,0:01:23,data analyst,yes,95.5,retail,python,6.0,7.0,7.0,6.0,7.0,6.0,difficult,remote work,male,29,United states,masters,black or african american
+6/13/2022,18:46,0:01:45,data analyst,yes,95.5,tech,python,7.0,6.0,5.0,4.0,3.0,6.0,neither easy nor difficult,better salary,female,41,United states,associates,hispanic or latino
+6/13/2022,19:54,0:01:15,student/looking/none,no,20.0,education,python,0.0,6.0,4.0,5.0,2.0,4.0,very difficult,remote work,female,22,United states,bachelors,hispanic or latino
+6/13/2022,21:15,0:02:30,data analyst,yes,75.5,healthcare,na,2.0,6.0,6.0,4.0,3.0,3.0,difficult,better salary,male,35,United states,bachelors,hispanic or latino
+6/13/2022,21:22,0:02:04,data analyst,yes,75.5,finance,python,4.0,3.0,4.0,4.0,4.0,6.0,very difficult,better salary,male,30,Singapore,bachelors,asian or asian american
+6/13/2022,22:08,0:01:13,data engineer,no,187.5,real estate,python,4.0,6.0,3.0,2.0,3.0,3.0,neither easy nor difficult,good culture,male,37,Canada,bachelors,asian or asian american
+6/13/2022,22:21,0:03:15,data analyst,yes,75.5,air transpo,python,6.0,7.0,7.0,5.0,5.0,9.0,difficult,better salary,female,28,United states,masters,black or african american
+6/13/2022,23:05,0:00:58,data analyst,no,95.5,real estate,python,7.0,5.0,6.0,6.0,4.0,6.0,neither easy nor difficult,good culture,male,23,United states,high school,white or caucasian
+6/14/2022,1:03,0:01:54,student/looking/none,no,20.0,finance,python,3.0,4.0,8.0,5.0,5.0,3.0,neither easy nor difficult,better salary,male,26,United states,high school,asian or asian american
+6/14/2022,4:31,0:01:22,data analyst,no,75.5,distribution ,python,2.0,4.0,4.0,3.0,4.0,4.0,neither easy nor difficult,good work/life balance,male,25,Australiaalia,bachelors,native hawaiian or other pacific islander
+6/14/2022,5:06,0:01:27,data analyst,no,20.0,tech,python,0.0,1.0,2.0,1.0,1.0,1.0,neither easy nor difficult,remote work,male,23,India,bachelors,asian or asian american
+6/14/2022,5:42,0:02:53,student/looking/none,yes,20.0,none for now,na,0.0,1.0,0.0,0.0,0.0,0.0,neither easy nor difficult,good culture,male,53,Nigeria,bachelors,black or african american
+6/14/2022,5:47,0:01:37,data engineer,yes,20.0,tech,python,4.0,6.0,6.0,3.0,7.0,9.0,neither easy nor difficult,better salary,female,33,Romania,bachelors,white or caucasian
+6/14/2022,6:34,0:04:29,student/looking/none,yes,20.0,finance,r,3.0,5.0,5.0,4.0,5.0,6.0,difficult,better salary,male,39,,high school,black or african american
+6/14/2022,6:43,0:01:05,data analyst,yes,20.0,healthcare,excel,6.0,7.0,5.0,7.0,7.0,9.0,difficult,better salary,female,22,United kingdom,bachelors,white or caucasian
+6/14/2022,6:53,0:01:34,data analyst,no,53.0,finance,python,4.0,7.0,7.0,7.0,5.0,5.0,easy,better salary,male,24,Germany,bachelors,white or caucasian
+6/14/2022,9:35,0:01:36,data architect,no,95.5,energy,python,5.0,1.0,3.0,1.0,4.0,5.0,difficult,good work/life balance,male,31,Canada,high school,white or caucasian
+6/14/2022,10:41,0:00:53,data analyst,yes,20.0,retails,python,0.0,0.0,0.0,0.0,0.0,0.0,very difficult,better salary,male,25,Asia,bachelors,asian or asian american
+6/14/2022,12:27,0:02:07,student/looking/none,no,20.0,tech,r,4.0,7.0,7.0,6.0,6.0,6.0,neither easy nor difficult,better salary,male,25,India,bachelors,asian or asian american
+6/14/2022,13:04,0:02:07,data analyst,no,20.0,tech,python,3.0,4.0,4.0,4.0,2.0,0.0,neither easy nor difficult,good work/life balance,male,23,India,bachelors,asian or asian american
+6/14/2022,14:02,0:01:56,ads operations,yes,53.0,digital marketing ,sql,6.0,7.0,7.0,7.0,7.0,6.0,neither easy nor difficult,remote too,male,23,India,bachelors,asian or asian american
+6/14/2022,16:49,0:01:35,data analyst,no,95.5,healthcare,python,8.0,9.0,8.0,8.0,8.0,9.0,difficult,better salary,male,40,United states,high school,white or caucasian
+6/14/2022,17:26,0:02:02,data analyst,no,53.0,homelessness,c/c++,5.0,6.0,6.0,2.0,0.0,4.0,neither easy nor difficult,better salary,male,29,United states,bachelors,hispanic or latino
+6/14/2022,17:33,0:03:16,data analyst,yes,20.0,tech,python,1.0,7.0,5.0,5.0,4.0,4.0,difficult,better salary,male,28,India,bachelors,south indian 
+6/14/2022,17:49,0:01:44,data analyst,yes,20.0,healthcare,r,3.0,6.0,6.0,4.0,6.0,3.0,very easy,better salary,female,28,United kingdom,masters,black or african american
+6/14/2022,23:30,0:01:02,student/looking/none,yes,20.0,telecommunication,python,0.0,3.0,3.0,4.0,5.0,5.0,difficult,good work/life balance,female,26,India,masters,asian or asian american
+6/15/2022,0:30,0:02:43,data engineer,no,53.0,construction,python,6.0,8.0,8.0,5.0,5.0,5.0,neither easy nor difficult,better salary,male,30,Netherlands,masters,white or caucasian
+6/15/2022,0:33,0:01:26,data analyst,yes,75.5,education,sql,5.0,9.0,7.0,9.0,8.0,9.0,neither easy nor difficult,better salary,male,27,Australiaalia,bachelors,asian or asian american
+6/15/2022,0:38,0:01:24,data analyst,yes,20.0,retail ,na,2.0,0.0,5.0,3.0,0.0,3.0,very difficult,remote work,male,28,Nigeria,bachelors,black or african american
+6/15/2022,4:07,0:02:08,data analyst,no,75.5,education,python,3.0,3.0,5.0,3.0,3.0,4.0,neither easy nor difficult,good work/life balance,female,38,Nigeria,masters,black or african american
+6/15/2022,6:59,0:01:56,data analyst,no,20.0,finance,python,2.0,6.0,5.0,5.0,6.0,6.0,easy,good culture,male,22,Mexico,bachelors,white or caucasian
+6/15/2022,7:54,0:01:32,data analyst,yes,95.5,energy,python,7.0,8.0,9.0,9.0,9.0,9.0,difficult,better salary,male,34,United states,bachelors,hispanic or latino
+6/15/2022,9:43,0:02:07,data analyst,no,20.0,tech,python,3.0,8.0,8.0,5.0,7.0,9.0,easy,better salary,male,26,Indonesia,bachelors,asian or asian american
+6/15/2022,10:43,0:01:06,data analyst,yes,75.5,tech,python,5.0,9.0,7.0,7.0,8.0,9.0,neither easy nor difficult,better salary,female,26,Canada,bachelors,asian or asian american
+6/15/2022,11:20,0:01:23,data engineer,no,75.5,education,python,10.0,10.0,10.0,9.0,9.0,10.0,difficult,remote work,male,25,Greece,bachelors,greek
+6/15/2022,13:08,0:03:23,data scientist,yes,137.5,tech,python,5.0,3.0,7.0,4.0,5.0,3.0,easy,collaboration ,male,34,United states,bachelors,black or african american
+6/15/2022,13:30,0:03:51,power bi developer,yes,53.0,finance,dax,7.0,10.0,10.0,10.0,4.0,5.0,neither easy nor difficult,good work/life balance,female,32,Poland,bachelors,hispanic or latino
+6/15/2022,14:16,0:01:15,student/looking/none,no,20.0,construction,r,2.0,2.0,2.0,2.0,2.0,2.0,difficult,better salary,male,24,United states,associates,black or african american
+6/15/2022,14:48,0:06:20,data engineer,yes,20.0,tech,python,7.0,3.0,3.0,2.0,5.0,9.0,difficult,better salary,male,26,Argentina,bachelors,hispanic or latino
+6/15/2022,15:13,0:02:00,data analyst,yes,53.0,telecommunication,sql,4.0,7.0,5.0,6.0,4.0,6.0,difficult,better salary,female,32,Sweden,masters,black or african american
+6/15/2022,15:34,0:02:24,data scientist,no,53.0,tech,r,5.0,1.0,7.0,1.0,1.0,2.0,neither easy nor difficult,good work/life balance,male,40,Portugal,masters,white or caucasian
+6/15/2022,15:37,0:01:49,data analyst,no,20.0,direct marketing,python,0.0,7.0,1.0,6.0,0.0,0.0,easy,better salary,male,27,United states,bachelors,black or african american
+6/15/2022,15:39,0:01:03,data analyst,yes,75.5,tech,r,4.0,3.0,6.0,7.0,4.0,7.0,easy,better salary,male,28,United states,masters,black or african american
+6/15/2022,16:17,0:02:13,data analyst,yes,20.0,fmcg,python,1.0,9.0,5.0,5.0,1.0,1.0,difficult,better salary,male,30,Nigeria,bachelors,nigeria
+6/15/2022,16:56,0:01:10,data analyst,yes,20.0,taking bootcamp,python,0.0,6.0,5.0,5.0,5.0,6.0,difficult,remote work,male,37,United states,bachelors,white or caucasian
+6/15/2022,18:04,0:02:35,software support,no,53.0,tech,javascript,7.0,7.0,5.0,5.0,0.0,0.0,difficult,good culture,male,32,Australiaalia,bachelors,asian or asian american
+6/15/2022,18:24,0:02:20,data analyst,yes,53.0,tech,python,9.0,7.0,10.0,10.0,5.0,8.0,neither easy nor difficult,better salary,male,24,Saudi arabia,bachelors,arab
+6/15/2022,22:29,0:02:50,data analyst,yes,20.0,tech,python,6.0,7.0,7.0,7.0,5.0,6.0,neither easy nor difficult,better salary,male,39,Argentina,associates,white or caucasian
+6/15/2022,22:29,0:06:15,data analyst,yes,137.5,finance,python,6.0,8.0,7.0,4.0,4.0,2.0,easy,better tech stack,male,34,Australiaalia,bachelors,asian or asian american
+6/15/2022,22:43,0:01:38,data analyst,no,53.0,space & defense,python,5.0,6.0,10.0,7.0,3.0,3.0,neither easy nor difficult,remote work,male,27,United states,bachelors,black or african american
+6/15/2022,23:29,0:01:17,data analyst,yes,75.5,healthcare,sql,7.0,7.0,4.0,7.0,7.0,7.0,difficult,better salary,male,54,United states,high school,white or caucasian
+6/16/2022,2:28,0:01:22,student/looking/none,yes,20.0,finance,sql,3.0,3.0,3.0,3.0,3.0,3.0,neither easy nor difficult,good work/life balance,male,25,India,masters,asian or asian american
+6/16/2022,4:50,0:01:42,student/looking/none,no,20.0,tech,python,7.0,7.0,2.0,2.0,7.0,9.0,easy,good work/life balance,male,33,India,bachelors,asian or asian american
+6/16/2022,5:30,0:01:17,data analyst,yes,53.0,tech,python,4.0,8.0,8.0,8.0,10.0,10.0,very easy,remote work,male,30,United kingdom,masters,white or caucasian
+6/16/2022,6:00,0:12:16,student/looking/none,yes,20.0,tech,python,0.0,4.0,2.0,0.0,1.0,3.0,neither easy nor difficult,better salary,male,31,Niger,high school,black or african american
+6/16/2022,6:54,0:02:11,student/looking/none,yes,20.0,automobile (cars),python,5.0,6.0,5.0,6.0,2.0,1.0,difficult,remote work,male,22,France,masters,arabian (from maghreb)
+6/16/2022,8:06,0:01:29,data analyst,yes,75.5,tech,r,8.0,10.0,10.0,10.0,8.0,9.0,neither easy nor difficult,remote work,female,38,United states,bachelors,black or african american
+6/16/2022,10:29,0:02:41,data analyst,no,20.0,logistics,python,6.0,9.0,7.0,7.0,5.0,8.0,neither easy nor difficult,good work/life balance,male,22,Malaysia,bachelors,malay
+6/16/2022,13:38,0:01:20,data scientist,yes,20.0,real estate,python,2.0,3.0,4.0,5.0,3.0,6.0,very easy,better salary,male,33,India,bachelors,asian or asian american
+6/16/2022,15:25,0:01:11,data analyst,yes,53.0,tech,python,3.0,6.0,6.0,6.0,5.0,5.0,neither easy nor difficult,better salary,male,27,Canada,bachelors,white or caucasian
+6/16/2022,16:00,0:02:14,data analyst,no,20.0,tech,r,0.0,6.0,3.0,0.0,0.0,10.0,neither easy nor difficult,remote work,male,19,Algeria,bachelors,white or caucasian
+6/16/2022,22:52,0:01:24,investigation specialist,no,20.0,ecommerce,python,1.0,6.0,2.0,5.0,1.0,0.0,neither easy nor difficult,better salary,male,24,India,bachelors,indian
+6/16/2022,22:59,0:03:50,director,no,187.5,finance,na,8.0,10.0,9.0,10.0,8.0,10.0,very easy,good culture,female,58,United states,masters,white or caucasian
+6/17/2022,14:03,0:01:38,data analyst,no,20.0,tech,python,2.0,2.0,5.0,6.0,6.0,3.0,neither easy nor difficult,good work/life balance,male,22,Nigeria,bachelors,black or african american
+6/17/2022,16:37,0:01:26,data analyst,no,95.5,tech,python,4.0,4.0,4.0,4.0,3.0,4.0,neither easy nor difficult,better salary,male,26,Irelandlandand,masters,asian or asian american
+6/17/2022,17:22,0:02:06,data manager,no,53.0,tech,other,4.0,5.0,4.0,5.0,5.0,3.0,easy,good culture,female,31,United kingdom,bachelors,white or caucasian
+6/18/2022,0:48,0:01:32,data analyst,no,53.0,agriculture,python,2.0,2.0,4.0,5.0,1.0,1.0,neither easy nor difficult,better salary,male,23,United states,high school,hispanic or latino
+6/18/2022,10:33,0:01:20,data analyst,no,95.5,healthcare,python,7.0,10.0,10.0,10.0,7.0,8.0,neither easy nor difficult,remote work,female,31,United states,masters,asian or asian american
+6/18/2022,11:42,0:01:47,student/looking/none,no,75.5,construction,other,5.0,5.0,7.0,7.0,9.0,10.0,difficult,better salary,female,24,United states,bachelors,asian or asian american
+6/18/2022,20:04,0:02:05,analytics engineer,yes,53.0,finance,python,8.0,10.0,10.0,10.0,10.0,10.0,neither easy nor difficult,better salary,male,29,Mexico,bachelors,hispanic or latino
+6/19/2022,4:40,0:01:20,student/looking/none,yes,20.0,education,python,7.0,8.0,9.0,8.0,9.0,10.0,difficult,good work/life balance,male,26,Indonesia,bachelors,asian or asian american
+6/19/2022,7:25,0:01:52,student/looking/none,yes,20.0,"interning in sciences, weather and meteorological data",python,3.0,9.0,9.0,9.0,9.0,9.0,neither easy nor difficult,better salary,male,20,India,high school,asian or asian american
+6/19/2022,8:01,0:01:24,data analyst,yes,20.0,education,python,0.0,2.0,3.0,2.0,4.0,2.0,neither easy nor difficult,better salary,male,23,India,bachelors,asian or asian american
+6/19/2022,10:53,0:01:47,data analyst,no,115.5,tech,python,8.0,8.0,9.0,8.0,7.0,7.0,neither easy nor difficult,good work/life balance,male,33,United states,masters,white or caucasian
+6/19/2022,12:04,0:01:40,student/looking/none,yes,20.0,tech,python,2.0,3.0,3.0,5.0,5.0,9.0,easy,remote work,male,26,Nigeria,bachelors,black or african american
+6/19/2022,12:50,0:03:57,data analyst,yes,20.0,consulting,r,3.0,9.0,8.0,8.0,6.0,6.0,difficult,better salary,male,27,India,bachelors,asian or asian american
+6/19/2022,13:57,0:02:21,student/looking/none,no,20.0,agriculture,sql,0.0,8.0,8.0,8.0,8.0,8.0,neither easy nor difficult,better salary,male,22,Uzbekistan,bachelors,asian or asian american
+6/19/2022,18:10,0:02:06,data analyst,yes,20.0,tech,python,3.0,9.0,9.0,6.0,9.0,4.0,easy,better salary,male,23,Spain,masters,white or caucasian
+6/21/2022,1:09,0:01:54,sap security analyst,yes,20.0,beverage and foods,python,3.0,6.0,7.0,5.0,4.0,4.0,neither easy nor difficult,better salary,male,28,Mexico,bachelors,hispanic or latino
+6/21/2022,2:51,0:02:28,data analyst,no,53.0,finance,sql,7.0,5.0,4.0,6.0,4.0,5.0,easy,good work/life balance,female,39,Portugal,masters,white or caucasian
+6/21/2022,15:34,0:03:25,bi manager,no,115.5,transportation,python,3.0,2.0,5.0,3.0,3.0,4.0,neither easy nor difficult,better salary,male,37,United states,masters,white or caucasian
+6/21/2022,21:27,0:01:33,database developer,yes,53.0,education,sql,4.0,7.0,7.0,7.0,7.0,7.0,difficult,better salary,female,29,United states,masters,white or caucasian
+6/22/2022,6:10,0:01:24,data analyst,yes,115.5,finance,python,5.0,6.0,6.0,5.0,4.0,3.0,easy,good work/life balance,male,42,United states,masters,white or caucasian
+6/22/2022,13:33,0:01:11,student/looking/none,no,20.0,tech,r,0.0,0.0,0.0,0.0,0.0,0.0,neither easy nor difficult,good culture,female,25,Canada,bachelors,asian or asian american
+6/23/2022,6:28,0:01:20,database developer,yes,20.0,telecommunication,python,5.0,5.0,5.0,5.0,4.0,5.0,easy,better salary,male,66,Morocco,high school,black or african american
+6/23/2022,22:45,0:00:50,data analyst,yes,137.5,retail,r,8.0,5.0,6.0,6.0,5.0,7.0,easy,better salary,male,26,United states,bachelors,white or caucasian
+6/24/2022,7:45,0:03:12,data scientist intern,no,20.0,manufacturing,r,4.0,6.0,7.0,7.0,4.0,6.0,difficult,better salary,male,21,United states,bachelors,white or caucasian
+6/25/2022,9:41,0:04:43,student/looking/none,yes,20.0,tech,python,1.0,2.0,1.0,2.0,1.0,2.0,difficult,better salary,male,26,Oman,bachelors,asian or asian american
+6/25/2022,19:06,0:02:17,data engineer,no,20.0,tech,python,6.0,6.0,6.0,6.0,4.0,3.0,easy,career advancedment,male,24,Costa rica,bachelors,hispanic or latino
+6/26/2022,12:58,0:01:19,data analyst,no,53.0,automotive,python,8.0,7.0,6.0,7.0,6.0,8.0,easy,remote work,male,22,United states,bachelors,asian or asian american
